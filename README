@@ -52,3 +52,38 @@ ant test-all		Builds the system and runs all unit tests
 ant test-one -Dclass=org.lockss.foo.TestBar
 			        Builds the system and runs one JUnit test class.
 ant -projecthelp	Lists other build options
+
+How to Build Plugin SciELO
+--------
+É necessário gerar os arquivos .class, portanto use o comando ant para fazê-lo. O arquivo build.xml contêm as funções para a construção das classes e suas dependências.
+Execute o comando: ant compile-plugins
+Verifique se os arquivos foram criados baseado nos arquivos .java.
+Origem dos dados para a construção do plugin
+$ ls -lha plugins/src/org/lockss/plugin/scielo/
+Destino dos arquivos class
+$ ls plugins/classes/org/lockss/plugin/scielo/
+
+Uma vez compilados os arquivos vamos gerar o arquivo .jar. Importante que a variável JAVA_HOME esteja setada
+Execute o comando:
+$ test/scripts/genkey 
+Full Name (i.e., First Last-lockss): SciELO Lockss
+Alias (i.e., flast-lockss): SciELO-Lockss
+Passphrase: <digite a senha>
+   Confirm: <confirme a senha>
+   
+Warning:
+O armazenamento de chaves JKS usa um formato proprietário. É recomendada a migração para PKCS12, que é um formato de padrão industrial que usa "keytool -importkeystore -srckeystore scielo-lockss.keystore -destkeystore scielo-lockss.keystore -deststoretype pkcs12".
+Certificado armazenado no arquivo <scielo-lockss.cer>
+
+Warning:
+O armazenamento de chaves JKS usa um formato proprietário. É recomendada a migração para PKCS12, que é um formato de padrão industrial que usa "keytool -importkeystore -srckeystore scielo-lockss.keystore -destkeystore scielo-lockss.keystore -deststoretype pkcs12".
+Displaying cert...
+
+Import certificate into LOCKSS public keystore? (Y/N) [Y]: 
+
+Será gerado o keystore na raiz e terá o nome do <alias>-keystore.
+
+Execute o comando abaixo para criar o arquivo .jar
+$ test/scripts/genplugin --jar SciELOPlugin.jar --alias SciELO-Lockss --keystore ./SciELO-Lockss.keystore  --titledb tdb/scielo.xml --plugin plugins/classes/org/lockss/plugin/scielo/SciELOPlugin.xml
+Pedirá a senha definida no genkey.
+Por fim é criado o arquivo SciELOPlugin.jar no diretório plugins/jars/
