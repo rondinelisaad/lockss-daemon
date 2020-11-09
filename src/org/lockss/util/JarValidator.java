@@ -233,20 +233,28 @@ public class JarValidator {
 	}
 
 	String name = jarEntryCert.getSubjectDN().getName();
-
+          log.warning("jarEntryCert.getSubjectDN().getName() = " + jarEntryCert.getSubjectDN().getName());
 	// Loop through all the entries in the keystore looking for a
 	// certificate that matches the jar entry certificate we're
 	// currently checking.
+
+          log.warning("TOTAL DE KEYSTORE ALIASES: " + m_keystore.size());
 	for (Enumeration aliases = m_keystore.aliases();
 	     aliases.hasMoreElements(); ) {
 	  String s = (String)aliases.nextElement();
+        log.warning("aliases.nextElement() = " + s);
 	  X509Certificate aliasCert = null;
 
 	  try {
 	    aliasCert = (X509Certificate)m_keystore.getCertificate(s);
 	  } catch (Exception ex) {
+          log.warning("ERRO NOT A 509 CERT: " + ex.getMessage());
 	    continue; // Not a 509 cert, try the next one.
 	  }
+        log.warning("-------------------------------------------");
+        log.warning("jarEntryCert NAME = " + name);
+        log.warning("aliasCert NAME = " + aliasCert.getSubjectDN().getName());
+        log.warning("------------------------------------------");
 
 	  if (name.equals(aliasCert.getSubjectDN().getName())) {
 	    // Aha!  This is a match for the issuer's certificate,
@@ -255,11 +263,13 @@ public class JarValidator {
 	    break;
 	  }
 	}
+
       } catch (KeyStoreException ex) {
 	log.error("Exception while working with the keystore, " +
 		  "skipping certificate.", ex);
 	continue; // Try the next certificate.
       }
+
 
       if (issuerCert == null) {
 	throw new JarValidationException("No issuer certificate could be found matching " +

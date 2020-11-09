@@ -3,7 +3,7 @@
         no hash filtering needed -->
   <entry>
     <string>plugin_status</string>
-    <string>deprecated</string>
+    <string>ready</string>
   </entry>
   <entry>
     <string>plugin_identifier</string>
@@ -11,7 +11,7 @@
   </entry>
   <entry>
     <string>plugin_version</string>
-    <string>10</string>
+    <string>13</string>
   </entry>
   <entry>
     <string>plugin_feature_version_map</string>
@@ -37,7 +37,7 @@
   <entry>
     <!--  version at creation -->
     <string>required_daemon_version</string>
-    <string>1.68.4</string>
+    <string>1.75.0</string>
   </entry>
   <entry>
     <string>plugin_config_props</string>
@@ -107,7 +107,7 @@
         https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js
      -->
     <list>
-      <string>1,"^https?://(%s|(fonts|ajax)\.googleapis\.com|cdn[.]mathjax[.]org|[^.]+\.cloudfront\.net)/[^?]*\.(bmp|css|eot|gif|ico|jpe?g|js|png|svg|tif?f|ttf|woff)$", url_host(base_url)</string>
+      <string>4,"^https?://(%s|(fonts|ajax)\.googleapis\.com|cdn[.]mathjax[.]org|[^.]+\.cloudfront\.net)/[^?]*\.(bmp|css|eot|gif|ico|jpe?g|js|png|svg|tif?f|ttf|woff)$", url_host(base_url)</string>
       <string>4,"^%s", base_url</string>
       <string>1,"^%spdf/.+/(.._)?.+\.pdf", base_url</string>
       <string>1,"^%sscielo\.php\?script=sci_issues&amp;pid=%s&amp;", base_url, journal_issn</string>
@@ -129,7 +129,7 @@
   <!-- recrawl depth is 2 -->
  <entry>
     <string>au_crawl_depth</string>
-    <int>2</int>
+    <int>5</int>
   </entry>
   <entry>
     <string>au_def_new_content_crawl</string>

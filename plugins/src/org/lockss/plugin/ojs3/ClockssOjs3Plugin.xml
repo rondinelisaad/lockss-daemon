@@ -10,7 +10,7 @@
   </entry>
   <entry>
     <string>plugin_version</string>
-    <string>3</string>
+    <string>5</string>
   </entry>
   <entry>
     <string>plugin_parent</string>
@@ -18,7 +18,7 @@
   </entry>
   <entry>
     <string>plugin_parent_version</string>
-    <string>3</string>
+    <string>5</string>
   </entry>
   <entry>
     <string>plugin_name</string>
@@ -31,7 +31,7 @@
 <!--  The default. The start_stem attribute is inserted as needed by the crawl seed -->  
   <entry>
     <string>au_start_url</string>
-    <string>"%s%s/gateway/clockss?year=%d", base_url, journal_id, year</string>
+    <string>"%s%s/gateway/lockss?year=%d", base_url, journal_id, year</string>
   </entry>
   <!--  must be defined here again because we redefine the start_url -->
  <entry>

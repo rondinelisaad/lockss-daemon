@@ -3,7 +3,7 @@
         no hash filtering needed -->
   <entry>
     <string>plugin_status</string>
-    <string>deprecated</string>
+    <string>ready</string>
   </entry>
   <entry>
     <string>plugin_identifier</string>
@@ -11,11 +11,11 @@
   </entry>
   <entry>
     <string>plugin_version</string>
-    <string>10</string>
+    <string>13</string>
   </entry>
   <entry>
     <string>plugin_name</string>
-    <string>SciELO Journals Plugin (CLOCKSS)</string>
+    <string>SciELO Journals Plugin (LOCKSS)</string>
   </entry>
   <entry>
     <string>plugin_parent</string>
@@ -23,11 +23,11 @@
   </entry>
    <entry>
     <string>plugin_parent_version</string>
-    <string>10</string>
+    <string>13</string>
   </entry>  
   <entry>
     <string>au_name</string>
-    <string>"SciELO Journals Plugin (CLOCKSS), Base URL %s, ISSN %s, Year %d", base_url, journal_issn, year</string>
+    <string>"SciELO Journals Plugin (LOCKSS), Base URL %s, ISSN %s, Year %d", base_url, journal_issn, year</string>
   </entry>
   <!-- for ingest to clockss-production -->
   <entry>
