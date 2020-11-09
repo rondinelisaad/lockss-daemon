@@ -1,10 +1,6 @@
 /*
- * $Id: BaseOaiPmhCrawlSeed.java,v 1.1 2014-11-12 20:11:23 wkwilson Exp $
- */
 
-/*
-
-Copyright (c) 2017 Board of Trustees of Leland Stanford Jr. University,
+Copyright (c) 2017-2020 Board of Trustees of Leland Stanford Jr. University,
 all rights reserved.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -32,9 +28,10 @@ in this Software without prior written authorization from Stanford University.
 
 package org.lockss.plugin.respediatrica;
 
-import com.lyncode.xoai.model.oaipmh.Granularity;
-import com.lyncode.xoai.serviceprovider.ServiceProvider;
-import com.lyncode.xoai.serviceprovider.model.Context;
+import org.apache.commons.lang.time.DateUtils;
+import org.dspace.xoai.model.oaipmh.Granularity;
+import org.dspace.xoai.serviceprovider.ServiceProvider;
+import org.dspace.xoai.serviceprovider.model.Context;
 import org.lockss.config.Configuration;
 import org.lockss.config.Configuration.InvalidParam;
 import org.lockss.crawler.BaseCrawlSeed;
@@ -63,9 +60,7 @@ public abstract class BaseOaiPmhCrawlSeed extends BaseCrawlSeed {
   private static final Logger logger = 
       Logger.getLogger(BaseOaiPmhCrawlSeed.class);
   
-  public static final String DEFAULT_METADATA_PREFIX = "oai_lockss";
   public static final String DATE_FORMAT = "yyyy-MM-dd";
-  public static final String DATETIME_FORMAT = "yyyy-MM-dd'T'hh:mm:ss";
   public static final String KEY_AU_OAI_FROM_DATE = "oai_from_date";
   public static final String KEY_AU_OAI_UNTIL_DATE = "oai_until_date";
   public static final String KEY_AU_OAI_SET = "au_oai_set";
@@ -75,7 +70,7 @@ public abstract class BaseOaiPmhCrawlSeed extends BaseCrawlSeed {
   public static final String DEFAULT_OAI_URL_POSTFIX = "oai/request";
   public static final String YEAR_START_POSTFIX = "-01-01";
   public static final String YEAR_END_POSTFIX = "-12-31";
-  public static final Granularity DEFAULT_GRANULARITY = Granularity.Second;
+  public static final Granularity DEFAULT_GRANULARITY = Granularity.Day;
   public static final String NULL_SET = "[NONE]";
   
   protected ServiceProvider sp;
@@ -85,11 +80,12 @@ public abstract class BaseOaiPmhCrawlSeed extends BaseCrawlSeed {
   protected String set;
   protected Granularity granularity = DEFAULT_GRANULARITY;
   //The OAI pmh accepted format for the metadata response
-  protected String metadataPrefix = DEFAULT_METADATA_PREFIX;
+  //protected String metadataPrefix = DEFAULT_METADATA_PREFIX;
+  protected String metadataPrefix = KEY_AU_OAI_METADATA_PREFIX;
   //The path to the home of the OAI PMH server from the base url
   protected String oaiUrlPostfix = DEFAULT_OAI_URL_POSTFIX;
   protected boolean usesDateRange = true;
-  protected boolean usesSet = true;
+  protected boolean usesSet = false;
   protected CrawlerFacade facade;
   protected Collection<String> permUrls = new ArrayList<String>();
   
@@ -142,7 +138,6 @@ public abstract class BaseOaiPmhCrawlSeed extends BaseCrawlSeed {
         throw new ConfigurationException(KEY_AU_OAI_URL_POSTFIX +
                                          " must not be null");
       }
-        
     }
     if(config.containsKey(KEY_AU_OAI_METADATA_PREFIX)) {
       if(!setMetadataPrefix(config.get(KEY_AU_OAI_METADATA_PREFIX))) {
@@ -151,10 +146,13 @@ public abstract class BaseOaiPmhCrawlSeed extends BaseCrawlSeed {
       }
     }
     if(config.containsKey(KEY_AU_OAI_GRANULARITY)) {
+      logger.debug3("Fei - KEY_AU_OAI_GRANULARITY is set");
       if(!setGranularity(config.get(KEY_AU_OAI_GRANULARITY))) {
         throw new ConfigurationException(KEY_AU_OAI_GRANULARITY + 
                                          " must be " + Granularity.Day + 
                                          " or " + Granularity.Second);
+      }  else {
+        logger.debug3("Fei - granularity is set to : " + config.get(KEY_AU_OAI_GRANULARITY));
       }
     }
       
@@ -181,16 +179,19 @@ public abstract class BaseOaiPmhCrawlSeed extends BaseCrawlSeed {
   protected void setDates(String from, String until)
       throws ConfigurationException {
     TimeZone utc = TimeZoneUtil.getExactTimeZone("UTC");
-    DateFormat df = new SimpleDateFormat(DATETIME_FORMAT);
+    DateFormat df = new SimpleDateFormat(DATE_FORMAT);
     df.setTimeZone(utc);
     this.from = parseDate(from, df, "from");
     this.until = parseDate(until, df, "until");
+
+    logger.debug3("Fei - setRange:  from = " + this.from + ", until = " + this.until);
   }
+
   
   protected Date parseDate(String date, DateFormat df, String name) 
       throws ConfigurationException {
     Date ret;
-
+    
     if(date.length() == 10) {
       date = date + "T00:00:00";
     }
@@ -198,7 +199,7 @@ public abstract class BaseOaiPmhCrawlSeed extends BaseCrawlSeed {
       ret = df.parse(date);
     } catch (ParseException e) {
       throw new ConfigurationException(
-        "Incorrectly formatted OAI " + name + " date", e);
+              "Incorrectly formatted OAI " + name + " date", e);
     }
     return ret;
   }

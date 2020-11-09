@@ -57,6 +57,8 @@
     au < ojs2.OJS2Plugin ; down ; 2016 ; Coriolis: Interdisciplinary Journal of Maritime Studies Volume 6 ; 6 ; 2016 >
     au < ojs3.Ojs3Plugin ; exists ; 2017 ; Coriolis: Interdisciplinary Journal of Maritime Studies Volume 7 ; 7 ; 2017 >
     au < ojs3.Ojs3Plugin ; exists ; 2018 ; Coriolis: Interdisciplinary Journal of Maritime Studies Volume 8 ; 8 ; 2018 >
+    au < ojs3.Ojs3Plugin ; expected ; 2019 ; Coriolis: Interdisciplinary Journal of Maritime Studies Volume 9 ; 9 ; 2019 >
+    au < ojs3.Ojs3Plugin ; expected ; 2020 ; Coriolis: Interdisciplinary Journal of Maritime Studies Volume 10 ; 10 ; 2020 >
 
   }
 }  
@@ -91,6 +93,8 @@
     au < ojs2.OJS2Plugin ; down ; 2016 ; International Journal of Infection Control Volume 12 ; 12 ; 2016 >
     au < ojs3.Ojs3Plugin ; exists ; 2017 ; International Journal of Infection Control Volume 13 ; 13 ; 2017 >
     au < ojs3.Ojs3Plugin ; exists ; 2018 ; International Journal of Infection Control Volume 14 ; 14 ; 2018 >
+    au < ojs3.Ojs3Plugin ; expected ; 2019 ; International Journal of Infection Control Volume 15 ; 15 ; 2019 >
+    au < ojs3.Ojs3Plugin ; expected ; 2020 ; International Journal of Infection Control Volume 16 ; 16 ; 2020 >
 
   }
 }
@@ -125,6 +129,8 @@
     au < ojs2.OJS2Plugin ; down ; 2016 ; International Journal of Transactional Analysis Research & Practice Volume 7 ; 7 ; 2016 >
     au < ojs2.OJS2Plugin ; down ; 2017 ; International Journal of Transactional Analysis Research & Practice Volume 8 ; 8 ; 2017 >
     au < ojs3.Ojs3Plugin ; exists ; 2018 ; International Journal of Transactional Analysis Research & Practice Volume 9 ; 9 ; 2018 >
+    au < ojs3.Ojs3Plugin ; expected ; 2019 ; International Journal of Transactional Analysis Research & Practice Volume 10 ; 10 ; 2019 >
+    au < ojs3.Ojs3Plugin ; expected ; 2020 ; International Journal of Transactional Analysis Research & Practice Volume 11 ; 11 ; 2020 >
 
   }
 }
@@ -162,6 +168,8 @@
     au < ojs2.OJS2Plugin ; down ; 2016 ; Intersticios Volume 10 ; 10 ; 2016 >
     au < ojs3.Ojs3Plugin ; exists ; 2017 ; Intersticios Volume 11 ; 11 ; 2017 >
     au < ojs3.Ojs3Plugin ; exists ; 2018 ; Intersticios Volume 12 ; 12 ; 2018 >
+    au < ojs3.Ojs3Plugin ; expected ; 2019 ; Intersticios Volume 13 ; 13 ; 2019 >
+    au < ojs3.Ojs3Plugin ; expected ; 2020 ; Intersticios Volume 14 ; 14 ; 2020 >
 
   }
 }
@@ -226,6 +234,8 @@
     au < ojs2.OJS2Plugin ; down ; 2015-2016 ; Journal of Applied Leadership and Management Volume 2016 ; 2016 ; 2016 >
     au < ojs3.Ojs3Plugin ; exists ; 2017 ; Journal of Applied Leadership and Management Volume 2017 ; 2017 ; 2017 >
     au < ojs3.Ojs3Plugin ; exists ; 2018 ; Journal of Applied Leadership and Management Volume 2018 ; 2018 ; 2018 >
+    au < ojs3.Ojs3Plugin ; expected ; 2019 ; Journal of Applied Leadership and Management Volume 2019 ; 2019 ; 2019 >
+    au < ojs3.Ojs3Plugin ; expected ; 2020 ; Journal of Applied Leadership and Management Volume 2020 ; 2020 ; 2020 >
 
   }
 }
@@ -322,6 +332,8 @@
     au < notReady ; 2015 ; KCA Journal of Business Management Volume 6-7 ; 6-7 ; 2015 >
     au < exists ; 2017 ; KCA Journal of Business Management Volume 8 ; 8 ; 2017 >
     au < expected ; 2018 ; KCA Journal of Business Management Volume 9 ; 9 ; 2018 >
+    au < expected ; 2019 ; KCA Journal of Business Management Volume 10 ; 10 ; 2019 >
+    au < expected ; 2020 ; KCA Journal of Business Management Volume 11 ; 11 ; 2020 >
 
   }
 }
@@ -358,6 +370,8 @@
     au < ojs2.OJS2Plugin ; down ; 2016 ; Khyber Medical University Journal Volume 8 ; 8 ; 2016 >
     au < ojs3.Ojs3Plugin ; exists ; 2017 ; Khyber Medical University Journal Volume 9 ; 9 ; 2017 >
     au < ojs3.Ojs3Plugin ; exists ; 2018 ; Khyber Medical University Journal Volume 10 ; 10 ; 2018 >
+    au < ojs3.Ojs3Plugin ; expected ; 2019 ; Khyber Medical University Journal Volume 11 ; 11 ; 2019 >
+    au < ojs3.Ojs3Plugin ; expected ; 2020 ; Khyber Medical University Journal Volume 12 ; 12 ; 2020 >
 
   }
 }  
@@ -395,6 +409,8 @@
     au < ojs2.OJS2Plugin ; down ; 2016 ; Mediterranean Journal of Hematology and Infectious Diseases Volume 8 ; 8 ; 2016 >
     au < ojs2.OJS2Plugin ; down ; 2017 ; Mediterranean Journal of Hematology and Infectious Diseases Volume 9 ; 9 ; 2017 >
     au < ojs3.Ojs3Plugin ; exists ; 2018 ; Mediterranean Journal of Hematology and Infectious Diseases Volume 10 ; 10 ; 2018 >
+    au < ojs3.Ojs3Plugin ; expected ; 2019 ; Mediterranean Journal of Hematology and Infectious Diseases Volume 11 ; 11 ; 2019 >
+    au < ojs3.Ojs3Plugin ; expected ; 2020 ; Mediterranean Journal of Hematology and Infectious Diseases Volume 12 ; 12 ; 2020 >
 
   }
 }
@@ -425,6 +441,8 @@
     au < released ; 2016 ; Syllabus Volume 5 ; 5 ; 2016 >
     au < released ; 2017 ; Syllabus Volume 6 ; 6 ; 2017 >
     au < released ; 2018 ; Syllabus Volume 7 ; 7 ; 2018 >
+    au < manifest ; 2019 ; Syllabus Volume 8 ; 8 ; 2019 >
+    au < manifest ; 2020 ; Syllabus Volume 9 ; 9 ; 2020 >
 
   }
 }  
@@ -458,6 +476,8 @@
     au < ojs2.OJS2Plugin ; down ; 2016 ; Understanding and Dismantling Privilege Volume 6 ; 6 ; 2016 >
     au < ojs3.Ojs3Plugin ; exists ; 2017 ; Understanding and Dismantling Privilege Volume 7 ; 7 ; 2017 >
     au < ojs3.Ojs3Plugin ; exists ; 2018 ; Understanding and Dismantling Privilege Volume 8 ; 8 ; 2018 >
+    au < ojs3.Ojs3Plugin ; expected ; 2019 ; Understanding and Dismantling Privilege Volume 9 ; 9 ; 2019 >
+    au < ojs3.Ojs3Plugin ; expected ; 2020 ; Understanding and Dismantling Privilege Volume 10 ; 10 ; 2020 >
 
   }
 }

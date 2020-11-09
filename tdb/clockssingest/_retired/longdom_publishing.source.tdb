@@ -1,0 +1,85 @@
+{
+
+  publisher <
+    name = Longdom Publishing ;
+    info[contract] = 2013 ;
+    info[tester] = S ;
+    comment[platform] = custom
+  >
+  
+    plugin = org.lockss.plugin.clockss.warc.ClockssWarcPlugin
+    hidden[proxy] = DIRECT
+    implicit < status ; status2 ; year ; name ; param[year] >  
+  {
+    title <
+      name = Advances in Pediatric Research WARC Content; 
+      issn = 2385-4529
+    >
+
+    # This content was collected using wget and provided for preservation as a
+    # set of WARC files
+
+    param[base_url] = http://clockss-ingest.lockss.org/warcfiles/advances-in-pediatric-research-released/
+
+    # WARC content collected from http://www.apr-journal.com
+    au < superseded ; finished ; 2016 ; Advances in Pediatric Research WARC Content 2016 ; 2016 >
+    # WARC content collected from https://www.longdom.org/advances-pediatric-research/archive.html
+    au < readySource ; finished ; 2018 ; Advances in Pediatric Research WARC Content 2018 ; 2018 >
+    
+  }
+  
+  
+  {
+    title <
+      name = Advances in Medical Ethics WARC Content ;
+      issn =  2385-5495
+    >
+    # This content was collected using wget and provided for preservation as a
+    # set of WARC files
+
+    param[base_url] = http://clockss-ingest.lockss.org/warcfiles/advances-in-medical-ethics-released/
+
+    # WARC content collected from http://www.ame-journal.com/
+    au < superseded ; finished ; 2016 ; Advances in Medical Ethics WARC Content 2016 ; 2016 >
+    # WARC content collected from https://www.longdom.org/advances-medical-ethics/archive.html
+    au < readySource ; finished ; 2018 ; Advances in Medical Ethics WARC Content 2018 ; 2018 >
+
+    
+  }
+  
+  {
+    title <
+      name = Advances in Rare Diseases WARC Content ;
+      issn = 2385-5290
+      
+    >
+    # This content was collected using wget and provided for preservation as a
+    # set of WARC files
+
+    param[base_url] = http://clockss-ingest.lockss.org/warcfiles/advances-in-rare-diseases-released/
+
+    # WARC content collected from http://www.ard-journal.com/
+    au < superseded ; finished ; 2016 ; Advances in Rare Diseases WARC Content 2016 ; 2016 >
+    # WARC content collected from https://www.longdom.org/advances-rare-diseases/archive.html
+    au < readySource ; finished ; 2018 ; Advances in Rare Diseases WARC Content 2018 ; 2018 >
+    
+  }
+  
+  {
+    title <
+      name = Healthy Aging Research WARC Content ;
+      issn = 2261-7434
+      
+    >
+    # This content was collected using wget and provided for preservation as a
+    # set of WARC files
+
+    param[base_url] = http://clockss-ingest.lockss.org/warcfiles/healthy-aging-research-released/
+
+    # WARC content collected from http://www.har-journal.com/
+    au < readySource ; finished ; 2016 ; Healthy Aging Research WARC Content 2016 ; 2016 >
+    # WARC content collected from ?? https://journals.lww.com/har-journal/Pages/issuelist.aspx??
+    # did this get sold off? Not there in 2018
+    
+  }
+}

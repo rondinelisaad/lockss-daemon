@@ -366,23 +366,26 @@ public class FileBackedLongList
    * @since 1.74.4
    */
   @Override
-  public void close() {
-    if (!closed) {
-      closed = true;
+  public synchronized void close() {
+    if (closed) {
+      return;
+    }
+    closed = true;
+    if (mbbuf != null) {
       force();
       CountingRandomAccessFile.unmap(mbbuf);
       mbbuf = null;
-      IOUtils.closeQuietly(craf);
-      craf = null;
-      IOUtils.closeQuietly(chan);
-      chan = null;
-      lbuf = null;
-      if (deleteFile) {
-        file.delete();
-      }
-      file = null;
-      size = -1;
     }
+    IOUtils.closeQuietly(craf);
+    craf = null;
+    IOUtils.closeQuietly(chan);
+    chan = null;
+    lbuf = null;
+    if (deleteFile) {
+      file.delete();
+      deleteFile = false;
+    }
+    size = -1;
   }
   
   /**

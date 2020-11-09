@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_batch version="4.4.2"
+           xmlns="http://www.crossref.org/schema/4.4.2"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:jats="http://www.ncbi.nlm.nih.gov/JATS1"
+           xmlns:mml="http://www.w3.org/1998/Math/MathML"
+           xsi:schemaLocation="http://www.crossref.org/schema/4.4.2 http://www.crossref.org/schemas/crossref4.4.2.xsd">
+    <head>
+        <doi_batch_id>ASEA3</doi_batch_id>
+        <timestamp>1593744965</timestamp>
+        <depositor>
+            <depositor_name>ISEC Press</depositor_name>
+            <email_address>isecsociety.am@gmail.com</email_address>
+        </depositor>
+        <registrant>ISEC Press</registrant>
+    </head>
+    <body>
+        <journal>
+            <journal_metadata language="en">
+                <full_title>Proceedings of International Structural Engineering and Construction</full_title>
+                <issn>2644-108X</issn>
+            </journal_metadata>
+            <journal_issue>
+                <contributors>
+                    <person_name sequence="additional" contributor_role="editor">
+                        <given_name>Hieng Ho</given_name>
+                        <surname>Lau</surname>
+                    </person_name>
+                    <person_name sequence="additional" contributor_role="editor">
+                        <given_name>Fu Ee</given_name>
+                        <surname>Tang</surname>
+                    </person_name>
+                    <person_name sequence="additional" contributor_role="editor">
+                        <given_name>Chee Khoon</given_name>
+                        <surname>Ng</surname>
+                    </person_name>
+                    <person_name sequence="additional" contributor_role="editor">
+                        <given_name>Amarjit</given_name>
+                        <surname>Singh</surname>
+                    </person_name>
+                </contributors>
+                <publication_date>
+                    <month>10</month>
+                    <year>2016</year>
+                </publication_date>
+                <journal_volume>
+                    <volume>3</volume>
+                </journal_volume>
+                <issue>2</issue>
+            </journal_issue>
+            <journal_article language="en" publication_type="full_text">
+                <titles>
+                    <title>FIRE SPREADING ANALYSIS OF A GROUP OF WOODEN HOUSES IN TOWNSCAPE FORMATION DISTRICT</title>
+                </titles>
+                <contributors>
+                    <person_name sequence="first" contributor_role="author">
+                        <given_name>Tomiya</given_name>
+                        <surname>Takatani</surname>
+                    </person_name>
+                    <person_name sequence="additional" contributor_role="editor">
+                        <given_name>Hieng Ho</given_name>
+                        <surname>Lau</surname>
+                    </person_name>
+                    <person_name sequence="additional" contributor_role="editor">
+                        <given_name>Fu Ee</given_name>
+                        <surname>Tang</surname>
+                    </person_name>
+                    <person_name sequence="additional" contributor_role="editor">
+                        <given_name>Chee Khoon</given_name>
+                        <surname>Ng</surname>
+                    </person_name>
+                    <person_name sequence="additional" contributor_role="editor">
+                        <given_name>Amarjit</given_name>
+                        <surname>Singh</surname>
+                    </person_name>
+                </contributors>
+                <jats:abstract xml:lang="en" id="AAE-1">
+                    <jats:p>There was a fire spreading disaster for 18 wooden houses in the historical townscape formation district in a famous spa resort area. In this paper, a fire spreading analysis of a group of wooden houses was carried out under some conditions of wind velocity and direction in order to numerically simulate a fire spreading phenomenon in the spa resort area and also investigate some fire spreading countermeasures for a group of wooden houses and also investigate an appropriate countermeasure for the fire spreading disaster of wooden houses using both fireproof wall and quasi-fireproof wall on wooden houses. As a result, it should be noted that the installation of fireproof wooden wall in every third wooden house can economically reduce a fire spreading area in comparison with the installation of quasi-fireproof wooden wall in every other wooden house.</jats:p>
+                </jats:abstract>
+                <publication_date>
+                    <month>10</month>
+                    <year>2016</year>
+                </publication_date>
+                <doi_data>
+                    <doi>10.14455/ISEC.res.2016.115</doi>
+                    <resource>https://www.isec-society.org/ISEC_PRESS/ASEA_SEC_03/html/AAE-1.xml</resource>
+                    <collection property='crawler-based'>
+                        <item crawler='iParadigms'>
+                            <resource>https://www.isec-society.org/ISEC_PRESS/ASEA_SEC_03/pdf/AAE-1_v3_13.pdf</resource>
+                        </item>
+                    </collection>
+                </doi_data>
+            </journal_article>
+        </journal>
+    </body>
+</doi_batch>

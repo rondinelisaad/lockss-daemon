@@ -32,7 +32,11 @@
     au < manifest ; 2017 ; Oncology Letters Volume 13 ; 13 >
     au < manifest ; 2017 ; Oncology Letters Volume 14 ; 14 >
     au < released ; 2018 ; Oncology Letters Volume 15 ; 15 >
-    au < manifest ; 2018 ; Oncology Letters Volume 16 ; 16 >
+    au < released ; 2018 ; Oncology Letters Volume 16 ; 16 >
+    au < manifest ; 2019 ; Oncology Letters Volume 17 ; 17 >
+    au < manifest ; 2019 ; Oncology Letters Volume 18 ; 18 >
+    au < manifest ; 2020 ; Oncology Letters Volume 19 ; 19 >
+    au < manifest ; 2020 ; Oncology Letters Volume 20 ; 20 >
 
   }
 
@@ -99,6 +103,10 @@
     au < manifest ; 2017 ; International Journal of Oncology Volume 51 ; 51 >
     au < released ; 2018 ; International Journal of Oncology Volume 52 ; 52 >
     au < released ; 2018 ; International Journal of Oncology Volume 53 ; 53 >
+    au < manifest ; 2019 ; International Journal of Oncology Volume 54 ; 54 >
+    au < manifest ; 2019 ; International Journal of Oncology Volume 55 ; 55 >
+    au < manifest ; 2020 ; International Journal of Oncology Volume 56 ; 56 >
+    au < manifest ; 2020 ; International Journal of Oncology Volume 57 ; 57 >
 
   }
 
@@ -120,6 +128,10 @@
     au < manifest ; 2017 ; Molecular and Clinical Oncology Volume 7 ; 7 >
     au < released ; 2018 ; Molecular and Clinical Oncology Volume 8 ; 8 >
     au < released ; 2018 ; Molecular and Clinical Oncology Volume 9 ; 9 >
+    au < manifest ; 2019 ; Molecular and Clinical Oncology Volume 10 ; 10 >
+    au < manifest ; 2019 ; Molecular and Clinical Oncology Volume 11 ; 11 >
+    au < manifest ; 2020 ; Molecular and Clinical Oncology Volume 12 ; 12 >
+    au < manifest ; 2020 ; Molecular and Clinical Oncology Volume 13 ; 13 >
 
   }
 
@@ -148,6 +160,10 @@
     au < manifest ; 2017 ; Experimental and Therapeutic Medicine Volume 14 ; 14 >
     au < released ; 2018 ; Experimental and Therapeutic Medicine Volume 15 ; 15 >
     au < released ; 2018 ; Experimental and Therapeutic Medicine Volume 16 ; 16 >
+    au < manifest ; 2019 ; Experimental and Therapeutic Medicine Volume 17 ; 17 >
+    au < manifest ; 2019 ; Experimental and Therapeutic Medicine Volume 18 ; 18 >
+    au < manifest ; 2020 ; Experimental and Therapeutic Medicine Volume 19 ; 19 >
+    au < manifest ; 2020 ; Experimental and Therapeutic Medicine Volume 20 ; 20 >
 
   }
 
@@ -201,7 +217,11 @@
     au < manifest ; 2017 ; International Journal of Molecular Medicine Volume 39 ; 39 >
     au < manifest ; 2017 ; International Journal of Molecular Medicine Volume 40 ; 40 >
     au < released ; 2018 ; International Journal of Molecular Medicine Volume 41 ; 41 >
-    au < manifest ; 2018 ; International Journal of Molecular Medicine Volume 42 ; 42 >
+    au < released ; 2018 ; International Journal of Molecular Medicine Volume 42 ; 42 >
+    au < manifest ; 2019 ; International Journal of Molecular Medicine Volume 43 ; 43 >
+    au < manifest ; 2019 ; International Journal of Molecular Medicine Volume 44 ; 44 >
+    au < manifest ; 2020 ; International Journal of Molecular Medicine Volume 45 ; 45 >
+    au < manifest ; 2020 ; International Journal of Molecular Medicine Volume 46 ; 46 >
 
   }
 
@@ -221,8 +241,12 @@
     au < manifest ; 2016 ; Biomedical Reports Volume 5 ; 5 >
     au < manifest ; 2017 ; Biomedical Reports Volume 6 ; 6 >
     au < manifest ; 2017 ; Biomedical Reports Volume 7 ; 7 >
-    au < manifest ; 2018 ; Biomedical Reports Volume 8 ; 8 >
-    au < manifest ; 2018 ; Biomedical Reports Volume 9 ; 9 >
+    au < released ; 2018 ; Biomedical Reports Volume 8 ; 8 >
+    au < released ; 2018 ; Biomedical Reports Volume 9 ; 9 >
+    au < manifest ; 2019 ; Biomedical Reports Volume 10 ; 10 >
+    au < manifest ; 2019 ; Biomedical Reports Volume 11 ; 11 >
+    au < manifest ; 2020 ; Biomedical Reports Volume 12 ; 12 >
+    au < manifest ; 2020 ; Biomedical Reports Volume 13 ; 13 >
 
   }
 
@@ -275,6 +299,10 @@
     au < manifest ; 2017 ; Oncology Reports Volume 38 ; 38 >
     au < released ; 2018 ; Oncology Reports Volume 39 ; 39 >
     au < released ; 2018 ; Oncology Reports Volume 40 ; 40 >
+    au < manifest ; 2019 ; Oncology Reports Volume 41 ; 41 >
+    au < manifest ; 2019 ; Oncology Reports Volume 42 ; 42 >
+    au < manifest ; 2020 ; Oncology Reports Volume 43 ; 43 >
+    au < manifest ; 2020 ; Oncology Reports Volume 44 ; 44 >
 
   }
 
@@ -305,6 +333,10 @@
     au < manifest ; 2017 ; Molecular Medicine Reports Volume 16 ; 16 >
     au < released ; 2018 ; Molecular Medicine Reports Volume 17 ; 17 >
     au < released ; 2018 ; Molecular Medicine Reports Volume 18 ; 18 >
+    au < manifest ; 2019 ; Molecular Medicine Reports Volume 19 ; 19 >
+    au < manifest ; 2019 ; Molecular Medicine Reports Volume 20 ; 20 >
+    au < manifest ; 2020 ; Molecular Medicine Reports Volume 21 ; 21 >
+    au < manifest ; 2020 ; Molecular Medicine Reports Volume 22 ; 22 >
 
   }
   
@@ -319,6 +351,7 @@
   
       au < manifest ; 2019 ; World Academy of Sciences Journal Volume 1 ; 1 >
     
-    }  
+      au < manifest ; 2020 ; World Academy of Sciences Journal Volume 2 ; 2 >
+    }
 
 }

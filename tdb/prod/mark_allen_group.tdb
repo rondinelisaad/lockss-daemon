@@ -28,12 +28,14 @@
     au < manifest ; 2010 ; African Journal of Midwifery and Women's Health Volume 4 ; 4 ; https://www.magonlinelibrary.com/ >
     au < manifest ; 2011 ; African Journal of Midwifery and Women's Health Volume 5 ; 5 ; https://www.magonlinelibrary.com/ >
     au < manifest ; 2012 ; African Journal of Midwifery and Women's Health Volume 6 ; 6 ; https://www.magonlinelibrary.com/ >
-    au < manifest ; 2013 ; African Journal of Midwifery and Women's Health Volume 7 ; 7 ; https://www.magonlinelibrary.com/ >
+    au < released ; 2013 ; African Journal of Midwifery and Women's Health Volume 7 ; 7 ; https://www.magonlinelibrary.com/ >
     au < released ; 2014 ; African Journal of Midwifery and Women's Health Volume 8 ; 8 ; http://www.magonlinelibrary.com/ >
     au < released ; 2015 ; African Journal of Midwifery and Women's Health Volume 9 ; 9 ; http://www.magonlinelibrary.com/ >
     au < released ; 2016 ; African Journal of Midwifery and Women's Health Volume 10 ; 10 ; http://www.magonlinelibrary.com/ >
     au < released ; 2017 ; African Journal of Midwifery and Women's Health Volume 11 ; 11 ; https://www.magonlinelibrary.com/ >
     au < released ; 2018 ; African Journal of Midwifery and Women's Health Volume 12 ; 12 ; https://www.magonlinelibrary.com/ >
+    au < released ; 2019 ; African Journal of Midwifery and Women's Health Volume 13 ; 13 ; https://www.magonlinelibrary.com/ >
+    au < manifest ; 2020 ; African Journal of Midwifery and Women's Health Volume 14 ; 14 ; https://www.magonlinelibrary.com/ >
 
   }
 
@@ -60,6 +62,8 @@
     au < released ; 2016 ; British Journal of Cardiac Nursing Volume 11 ; 11 ; http://www.magonlinelibrary.com/ >
     au < released ; 2017 ; British Journal of Cardiac Nursing Volume 12 ; 12 ; https://www.magonlinelibrary.com/ >
     au < released ; 2018 ; British Journal of Cardiac Nursing Volume 13 ; 13 ; https://www.magonlinelibrary.com/ >
+    au < released ; 2019 ; British Journal of Cardiac Nursing Volume 14 ; 14 ; https://www.magonlinelibrary.com/ >
+    au < manifest ; 2020 ; British Journal of Cardiac Nursing Volume 15 ; 15 ; https://www.magonlinelibrary.com/ >
 
   }
 
@@ -87,6 +91,8 @@
     au < released ; 2016 ; British Journal of Community Nursing Volume 21 ; 21 ; http://www.magonlinelibrary.com/ >
     au < released ; 2017 ; British Journal of Community Nursing Volume 22 ; 22 ; https://www.magonlinelibrary.com/ >
     au < released ; 2018 ; British Journal of Community Nursing Volume 23 ; 23 ; https://www.magonlinelibrary.com/ >
+    au < released ; 2019 ; British Journal of Community Nursing Volume 24 ; 24 ; https://www.magonlinelibrary.com/ >
+    au < manifest ; 2020 ; British Journal of Community Nursing Volume 25 ; 25 ; https://www.magonlinelibrary.com/ >
 
   }
 
@@ -111,7 +117,9 @@
     au < released ; 2015 ; British Journal of Healthcare Assistants Volume 9 ; 9 ; http://www.magonlinelibrary.com/ >
     au < released ; 2016 ; British Journal of Healthcare Assistants Volume 10 ; 10 ; http://www.magonlinelibrary.com/ >
     au < released ; 2017 ; British Journal of Healthcare Assistants Volume 11 ; 11 ; https://www.magonlinelibrary.com/ >
-    au < manifest ; 2018 ; British Journal of Healthcare Assistants Volume 12 ; 12 ; https://www.magonlinelibrary.com/ >
+    au < released ; 2018 ; British Journal of Healthcare Assistants Volume 12 ; 12 ; https://www.magonlinelibrary.com/ >
+    au < released ; 2019 ; British Journal of Healthcare Assistants Volume 13 ; 13 ; https://www.magonlinelibrary.com/ >
+    au < manifest ; 2020 ; British Journal of Healthcare Assistants Volume 14 ; 14 ; https://www.magonlinelibrary.com/ >
 
   }
 
@@ -136,6 +144,8 @@
     au < released ; 2016 ; British Journal of Healthcare Management Volume 22 ; 22 ; http://www.magonlinelibrary.com/ >
     au < released ; 2017 ; British Journal of Healthcare Management Volume 23 ; 23 ; https://www.magonlinelibrary.com/ >
     au < released ; 2018 ; British Journal of Healthcare Management Volume 24 ; 24 ; https://www.magonlinelibrary.com/ >
+    au < released ; 2019 ; British Journal of Healthcare Management Volume 25 ; 25 ; https://www.magonlinelibrary.com/ >
+    au < manifest ; 2020 ; British Journal of Healthcare Management Volume 26 ; 26 ; https://www.magonlinelibrary.com/ >
 
   }
 
@@ -159,7 +169,9 @@
     au < released ; 2015 ; British Journal of Hospital Medicine Volume 76 ; 76 ; http://www.magonlinelibrary.com/ >
     au < released ; 2016 ; British Journal of Hospital Medicine Volume 77 ; 77 ; http://www.magonlinelibrary.com/ >
     au < released ; 2017 ; British Journal of Hospital Medicine Volume 78 ; 78 ; https://www.magonlinelibrary.com/ >
-    au < manifest ; 2018 ; British Journal of Hospital Medicine Volume 79 ; 79 ; https://www.magonlinelibrary.com/ >
+    au < released ; 2018 ; British Journal of Hospital Medicine Volume 79 ; 79 ; https://www.magonlinelibrary.com/ >
+    au < released ; 2019 ; British Journal of Hospital Medicine Volume 80 ; 80 ; https://www.magonlinelibrary.com/ >
+    au < manifest ; 2020 ; British Journal of Hospital Medicine Volume 81 ; 81 ; https://www.magonlinelibrary.com/ >
 
   }
 
@@ -180,6 +192,8 @@
     au < released ; 2016 ; British Journal of Mental Health Nursing Volume 5 ; 5 ; http://www.magonlinelibrary.com/ >
     au < released ; 2017 ; British Journal of Mental Health Nursing Volume 6 ; 6 ; https://www.magonlinelibrary.com/ >
     au < released ; 2018 ; British Journal of Mental Health Nursing Volume 7 ; 7 ; https://www.magonlinelibrary.com/ >
+    au < released ; 2019 ; British Journal of Mental Health Nursing Volume 8 ; 8 ; https://www.magonlinelibrary.com/ >
+    au < manifest ; 2020 ; British Journal of Mental Health Nursing Volume 9 ; 9 ; https://www.magonlinelibrary.com/ >
 
   }
 
@@ -204,6 +218,8 @@
     au < released ; 2016 ; British Journal of Midwifery Volume 24 ; 24 ; http://www.magonlinelibrary.com/ >
     au < released ; 2017 ; British Journal of Midwifery Volume 25 ; 25 ; https://www.magonlinelibrary.com/ >
     au < released ; 2018 ; British Journal of Midwifery Volume 26 ; 26 ; https://www.magonlinelibrary.com/ >
+    au < released ; 2019 ; British Journal of Midwifery Volume 27 ; 27 ; https://www.magonlinelibrary.com/ >
+    au < manifest ; 2020 ; British Journal of Midwifery Volume 28 ; 28 ; https://www.magonlinelibrary.com/ >
 
   }
 
@@ -227,7 +243,9 @@
     au < released ; 2015 ; British Journal of Neuroscience Nursing Volume 11 ; 11 ; http://www.magonlinelibrary.com/ >
     au < released ; 2016 ; British Journal of Neuroscience Nursing Volume 12 ; 12 ; http://www.magonlinelibrary.com/ >
     au < released ; 2017 ; British Journal of Neuroscience Nursing Volume 13 ; 13 ; https://www.magonlinelibrary.com/ >
-    au < manifest ; 2018 ; British Journal of Neuroscience Nursing Volume 14 ; 14 ; https://www.magonlinelibrary.com/ >
+    au < released ; 2018 ; British Journal of Neuroscience Nursing Volume 14 ; 14 ; https://www.magonlinelibrary.com/ >
+    au < released ; 2019 ; British Journal of Neuroscience Nursing Volume 15 ; 15 ; https://www.magonlinelibrary.com/ >
+    au < manifest ; 2020 ; British Journal of Neuroscience Nursing Volume 16 ; 16 ; https://www.magonlinelibrary.com/ >
 
   }
 
@@ -251,7 +269,9 @@
     au < released ; 2015 ; British Journal of Nursing Volume 24 ; 24 ; http://www.magonlinelibrary.com/ >
     au < released ; 2016 ; British Journal of Nursing Volume 25 ; 25 ; http://www.magonlinelibrary.com/ >
     au < released ; 2017 ; British Journal of Nursing Volume 26 ; 26 ; https://www.magonlinelibrary.com/ >
-    au < manifest ; 2018 ; British Journal of Nursing Volume 27 ; 27 ; https://www.magonlinelibrary.com/ >
+    au < released ; 2018 ; British Journal of Nursing Volume 27 ; 27 ; https://www.magonlinelibrary.com/ >
+    au < released ; 2019 ; British Journal of Nursing Volume 28 ; 28 ; https://www.magonlinelibrary.com/ >
+    au < manifest ; 2020 ; British Journal of Nursing Volume 29 ; 29 ; https://www.magonlinelibrary.com/ >
 
   }
 
@@ -278,6 +298,8 @@
     au < released ; 2016 ; British Journal of School Nursing Volume 11 ; 11 ; http://www.magonlinelibrary.com/ >
     au < released ; 2017 ; British Journal of School Nursing Volume 12 ; 12 ; https://www.magonlinelibrary.com/ >
     au < released ; 2018 ; British Journal of School Nursing Volume 13 ; 13 ; https://www.magonlinelibrary.com/ >
+    au < released ; 2019 ; British Journal of School Nursing Volume 14 ; 14 ; https://www.magonlinelibrary.com/ >
+    au < expected ; 2020 ; British Journal of School Nursing Volume 15 ; 15 ; https://www.magonlinelibrary.com/ >
 
   }
 
@@ -302,7 +324,9 @@
     au < released ; 2015 ; Dental Nursing Volume 11 ; 11 ; http://www.magonlinelibrary.com/ >
     au < released ; 2016 ; Dental Nursing Volume 12 ; 12 ; http://www.magonlinelibrary.com/ >
     au < released ; 2017 ; Dental Nursing Volume 13 ; 13 ; https://www.magonlinelibrary.com/ >
-    au < manifest ; 2018 ; Dental Nursing Volume 14 ; 14 ; https://www.magonlinelibrary.com/ >
+    au < released ; 2018 ; Dental Nursing Volume 14 ; 14 ; https://www.magonlinelibrary.com/ >
+    au < released ; 2019 ; Dental Nursing Volume 15 ; 15 ; https://www.magonlinelibrary.com/ >
+    au < manifest ; 2020 ; Dental Nursing Volume 16 ; 16 ; https://www.magonlinelibrary.com/ >
 
   }
 
@@ -323,10 +347,12 @@
     au < manifest ; 2012 ; Gastrointestinal Nursing Volume 10 ; 10 ; https://www.magonlinelibrary.com/ >
     au < released ; 2013 ; Gastrointestinal Nursing Volume 11 ; 11 ; http://www.magonlinelibrary.com/ >
     au < released ; 2014 ; Gastrointestinal Nursing Volume 12 ; 12 ; http://www.magonlinelibrary.com/ >
-    au < manifest ; 2015 ; Gastrointestinal Nursing Volume 13 ; 13 ; https://www.magonlinelibrary.com/ >
+    au < released ; 2015 ; Gastrointestinal Nursing Volume 13 ; 13 ; https://www.magonlinelibrary.com/ >
     au < released ; 2016 ; Gastrointestinal Nursing Volume 14 ; 14 ; http://www.magonlinelibrary.com/ >
     au < released ; 2017 ; Gastrointestinal Nursing Volume 15 ; 15 ; https://www.magonlinelibrary.com/ >
-    au < manifest ; 2018 ; Gastrointestinal Nursing Volume 16 ; 16 ; https://www.magonlinelibrary.com/ >
+    au < released ; 2018 ; Gastrointestinal Nursing Volume 16 ; 16 ; https://www.magonlinelibrary.com/ >
+    au < released ; 2019 ; Gastrointestinal Nursing Volume 17 ; 17 ; https://www.magonlinelibrary.com/ >
+    au < manifest ; 2020 ; Gastrointestinal Nursing Volume 18 ; 18 ; https://www.magonlinelibrary.com/ >
 
   }
 
@@ -350,7 +376,9 @@
     au < released ; 2015 ; Independent Nurse Volume 2015 ; 2015 ; http://www.magonlinelibrary.com/ >
     au < released ; 2016 ; Independent Nurse Volume 2016 ; 2016 ; http://www.magonlinelibrary.com/ >
     au < released ; 2017 ; Independent Nurse Volume 2017 ; 2017 ; https://www.magonlinelibrary.com/ >
-    au < manifest ; 2018 ; Independent Nurse Volume 2018 ; 2018 ; https://www.magonlinelibrary.com/ >
+    au < released ; 2018 ; Independent Nurse Volume 2018 ; 2018 ; https://www.magonlinelibrary.com/ >
+    au < released ; 2019 ; Independent Nurse Volume 2019 ; 2019 ; https://www.magonlinelibrary.com/ >
+    au < manifest ; 2020 ; Independent Nurse Volume 2020 ; 2020 ; https://www.magonlinelibrary.com/ >
 
   }
 
@@ -394,6 +422,8 @@
     au < released ; 2016 ; International Journal of Palliative Nursing Volume 22 ; 22 ; http://www.magonlinelibrary.com/ >
     au < released ; 2017 ; International Journal of Palliative Nursing Volume 23 ; 23 ; https://www.magonlinelibrary.com/ >
     au < released ; 2018 ; International Journal of Palliative Nursing Volume 24 ; 24 ; https://www.magonlinelibrary.com/ >
+    au < released ; 2019 ; International Journal of Palliative Nursing Volume 25 ; 25 ; https://www.magonlinelibrary.com/ >
+    au < manifest ; 2020 ; International Journal of Palliative Nursing Volume 26 ; 26 ; https://www.magonlinelibrary.com/ >
 
   }
 
@@ -418,6 +448,8 @@
     au < released ; 2016 ; International Journal of Therapy and Rehabilitation Volume 23 ; 23 ; http://www.magonlinelibrary.com/ >
     au < released ; 2017 ; International Journal of Therapy and Rehabilitation Volume 24 ; 24 ; https://www.magonlinelibrary.com/ >
     au < released ; 2018 ; International Journal of Therapy and Rehabilitation Volume 25 ; 25 ; https://www.magonlinelibrary.com/ >
+    au < released ; 2019 ; International Journal of Therapy and Rehabilitation Volume 26 ; 26 ; https://www.magonlinelibrary.com/ >
+    au < manifest ; 2020 ; International Journal of Therapy and Rehabilitation Volume 27 ; 27 ; https://www.magonlinelibrary.com/ >
 
   }
 
@@ -438,7 +470,9 @@
     au < released ; 2015 ; International Paramedic Practice Volume 5 ; 5 ; http://www.magonlinelibrary.com/ >
     au < released ; 2016 ; International Paramedic Practice Volume 6 ; 6 ; http://www.magonlinelibrary.com/ >
     au < released ; 2017 ; International Paramedic Practice Volume 7 ; 7 ; https://www.magonlinelibrary.com/ >
-    au < manifest ; 2018 ; International Paramedic Practice Volume 8 ; 8 ; https://www.magonlinelibrary.com/ >
+    au < released ; 2018 ; International Paramedic Practice Volume 8 ; 8 ; https://www.magonlinelibrary.com/ >
+    au < released ; 2019 ; International Paramedic Practice Volume 9 ; 9 ; https://www.magonlinelibrary.com/ >
+    au < manifest ; 2020 ; International Paramedic Practice Volume 10 ; 10 ; https://www.magonlinelibrary.com/ >
 
   }
 
@@ -458,7 +492,9 @@
     au < released ; 2015 ; Journal of Aesthetic Nursing Volume 4 ; 4 ; http://www.magonlinelibrary.com/ >
     au < released ; 2016 ; Journal of Aesthetic Nursing Volume 5 ; 5 ; http://www.magonlinelibrary.com/ >
     au < released ; 2017 ; Journal of Aesthetic Nursing Volume 6 ; 6 ; https://www.magonlinelibrary.com/ >
-    au < manifest ; 2018 ; Journal of Aesthetic Nursing Volume 7 ; 7 ; https://www.magonlinelibrary.com/ >
+    au < released ; 2018 ; Journal of Aesthetic Nursing Volume 7 ; 7 ; https://www.magonlinelibrary.com/ >
+    au < released ; 2019 ; Journal of Aesthetic Nursing Volume 8 ; 8 ; https://www.magonlinelibrary.com/ >
+    au < manifest ; 2020 ; Journal of Aesthetic Nursing Volume 9 ; 9 ; https://www.magonlinelibrary.com/ >
 
   }
 
@@ -492,7 +528,9 @@
     au < released ; 2015 ; Journal of Health Visiting Volume 3 ; 3 ; http://www.magonlinelibrary.com/ >
     au < released ; 2016 ; Journal of Health Visiting Volume 4 ; 4 ; http://www.magonlinelibrary.com/ >
     au < released ; 2017 ; Journal of Health Visiting Volume 5 ; 5 ; https://www.magonlinelibrary.com/ >
-    au < manifest ; 2018 ; Journal of Health Visiting Volume 6 ; 6 ; https://www.magonlinelibrary.com/ >
+    au < released ; 2018 ; Journal of Health Visiting Volume 6 ; 6 ; https://www.magonlinelibrary.com/ >
+    au < released ; 2019 ; Journal of Health Visiting Volume 7 ; 7 ; https://www.magonlinelibrary.com/ >
+    au < manifest ; 2020 ; Journal of Health Visiting Volume 8 ; 8 ; https://www.magonlinelibrary.com/ >
 
   }
 
@@ -512,10 +550,12 @@
     au < manifest ; 2012 ; Journal of Paramedic Practice Volume 4 ; 4 ; https://www.magonlinelibrary.com/ >
     au < released ; 2013 ; Journal of Paramedic Practice Volume 5 ; 5 ; http://www.magonlinelibrary.com/ >
     au < released ; 2014 ; Journal of Paramedic Practice Volume 6 ; 6 ; http://www.magonlinelibrary.com/ >
-    au < manifest ; 2015 ; Journal of Paramedic Practice Volume 7 ; 7 ; https://www.magonlinelibrary.com/ >
+    au < released ; 2015 ; Journal of Paramedic Practice Volume 7 ; 7 ; https://www.magonlinelibrary.com/ >
     au < released ; 2016 ; Journal of Paramedic Practice Volume 8 ; 8 ; http://www.magonlinelibrary.com/ >
     au < released ; 2017 ; Journal of Paramedic Practice Volume 9 ; 9 ; https://www.magonlinelibrary.com/ >
-    au < manifest ; 2018 ; Journal of Paramedic Practice Volume 10 ; 10 ; https://www.magonlinelibrary.com/ >
+    au < released ; 2018 ; Journal of Paramedic Practice Volume 10 ; 10 ; https://www.magonlinelibrary.com/ >
+    au < released ; 2019 ; Journal of Paramedic Practice Volume 11 ; 11 ; https://www.magonlinelibrary.com/ >
+    au < manifest ; 2020 ; Journal of Paramedic Practice Volume 12 ; 12 ; https://www.magonlinelibrary.com/ >
 
   }
 
@@ -549,10 +589,11 @@
     param[journal_id] = jokc
     #continues = 2041-1448
 
-    au < manifest ; 2016 ; Journal of Kidney Care Volume 1 ; 1 ; https://www.magonlinelibrary.com/ >
-    au < manifest ; 2017 ; Journal of Kidney Care Volume 2 ; 2 ; https://www.magonlinelibrary.com/ >
-    au < manifest ; 2018 ; Journal of Kidney Care Volume 3 ; 3 ; https://www.magonlinelibrary.com/ >
-    au < manifest ; 2019 ; Journal of Kidney Care Volume 4 ; 4 ; https://www.magonlinelibrary.com/ >
+    au < released ; 2016 ; Journal of Kidney Care Volume 1 ; 1 ; https://www.magonlinelibrary.com/ >
+    au < released ; 2017 ; Journal of Kidney Care Volume 2 ; 2 ; https://www.magonlinelibrary.com/ >
+    au < released ; 2018 ; Journal of Kidney Care Volume 3 ; 3 ; https://www.magonlinelibrary.com/ >
+    au < released ; 2019 ; Journal of Kidney Care Volume 4 ; 4 ; https://www.magonlinelibrary.com/ >
+    au < manifest ; 2020 ; Journal of Kidney Care Volume 5 ; 5 ; https://www.magonlinelibrary.com/ >
 
   }
 
@@ -576,7 +617,9 @@
     au < released ; 2015 ; Journal of Wound Care Volume 24 ; 24 ; http://www.magonlinelibrary.com/ >
     au < released ; 2016 ; Journal of Wound Care Volume 25 ; 25 ; http://www.magonlinelibrary.com/ >
     au < released ; 2017 ; Journal of Wound Care Volume 26 ; 26 ; https://www.magonlinelibrary.com/ >
-    au < manifest ; 2018 ; Journal of Wound Care Volume 27 ; 27 ; https://www.magonlinelibrary.com/ >
+    au < released ; 2018 ; Journal of Wound Care Volume 27 ; 27 ; https://www.magonlinelibrary.com/ >
+    au < released ; 2019 ; Journal of Wound Care Volume 28 ; 28 ; https://www.magonlinelibrary.com/ >
+    au < manifest ; 2020 ; Journal of Wound Care Volume 29 ; 29 ; https://www.magonlinelibrary.com/ >
 
   }
 
@@ -600,7 +643,23 @@
     au < released ; 2015 ; Nurse Prescribing Volume 13 ; 13 ; http://www.magonlinelibrary.com/ >
     au < released ; 2016 ; Nurse Prescribing Volume 14 ; 14 ; http://www.magonlinelibrary.com/ >
     au < released ; 2017 ; Nurse Prescribing Volume 15 ; 15 ; https://www.magonlinelibrary.com/ >
-    au < manifest ; 2018 ; Nurse Prescribing Volume 16 ; 16 ; https://www.magonlinelibrary.com/ >
+    au < released ; 2018 ; Nurse Prescribing Volume 16 ; 16 ; https://www.magonlinelibrary.com/ >
+
+  }
+
+  {
+    title <
+      name = Journal of Prescribing Practice ;
+      issn = 2631-8385 ;
+      eissn = 2631-8385
+    >
+
+    comment[base_url] = http://www.nurseprescribing.com/
+    param[journal_id] = jprp
+    #continues = 1479-9189
+
+    au < released ; 2019 ; Journal of Prescribing Practice Volume 1 ; 1 ; https://www.magonlinelibrary.com/ >
+    au < manifest ; 2020 ; Journal of Prescribing Practice Volume 2 ; 2 ; https://www.magonlinelibrary.com/ >
 
   }
 
@@ -620,14 +679,16 @@
     au < manifest ; 2008 ; Nursing and Residential Care Volume 10 ; 10 ; https://www.magonlinelibrary.com/ >
     au < released ; 2009 ; Nursing and Residential Care Volume 11 ; 11 ; http://www.magonlinelibrary.com/ >
     au < released ; 2010 ; Nursing and Residential Care Volume 12 ; 12 ; http://www.magonlinelibrary.com/ >
-    au < manifest ; 2011 ; Nursing and Residential Care Volume 13 ; 13 ; https://www.magonlinelibrary.com/ >
+    au < released ; 2011 ; Nursing and Residential Care Volume 13 ; 13 ; https://www.magonlinelibrary.com/ >
     au < manifest ; 2012 ; Nursing and Residential Care Volume 14 ; 14 ; https://www.magonlinelibrary.com/ >
     au < released ; 2013 ; Nursing and Residential Care Volume 15 ; 15 ; http://www.magonlinelibrary.com/ >
     au < released ; 2014 ; Nursing and Residential Care Volume 16 ; 16 ; http://www.magonlinelibrary.com/ >
     au < released ; 2015 ; Nursing and Residential Care Volume 17 ; 17 ; http://www.magonlinelibrary.com/ >
     au < released ; 2016 ; Nursing and Residential Care Volume 18 ; 18 ; http://www.magonlinelibrary.com/ >
     au < released ; 2017 ; Nursing and Residential Care Volume 19 ; 19 ; https://www.magonlinelibrary.com/ >
-    au < manifest ; 2018 ; Nursing and Residential Care Volume 20 ; 20 ; https://www.magonlinelibrary.com/ >
+    au < released ; 2018 ; Nursing and Residential Care Volume 20 ; 20 ; https://www.magonlinelibrary.com/ >
+    au < released ; 2019 ; Nursing and Residential Care Volume 21 ; 21 ; https://www.magonlinelibrary.com/ >
+    au < manifest ; 2020 ; Nursing and Residential Care Volume 22 ; 22 ; https://www.magonlinelibrary.com/ >
 
   }
 
@@ -652,6 +713,8 @@
     au < released ; 2016 ; Practice Nursing Volume 27 ; 27 ; http://www.magonlinelibrary.com/ >
     au < released ; 2017 ; Practice Nursing Volume 28 ; 28 ; https://www.magonlinelibrary.com/ >
     au < released ; 2018 ; Practice Nursing Volume 29 ; 29 ; https://www.magonlinelibrary.com/ >
+    au < released ; 2019 ; Practice Nursing Volume 30 ; 30 ; https://www.magonlinelibrary.com/ >
+    au < manifest ; 2020 ; Practice Nursing Volume 31 ; 31 ; https://www.magonlinelibrary.com/ >
 
   }
 
@@ -672,7 +735,9 @@
     au < released ; 2015 ; Companion Animal Volume 20 ; 20 ; http://www.magonlinelibrary.com/ >
     au < released ; 2016 ; Companion Animal Volume 21 ; 21 ; http://www.magonlinelibrary.com/ >
     au < released ; 2017 ; Companion Animal Volume 22 ; 22 ; https://www.magonlinelibrary.com/ >
-    au < manifest ; 2018 ; Companion Animal Volume 23 ; 23 ; https://www.magonlinelibrary.com/ >
+    au < released ; 2018 ; Companion Animal Volume 23 ; 23 ; https://www.magonlinelibrary.com/ >
+    au < released ; 2019 ; Companion Animal Volume 24 ; 24 ; https://www.magonlinelibrary.com/ >
+    au < manifest ; 2020 ; Companion Animal Volume 25 ; 25 ; https://www.magonlinelibrary.com/ >
 
   }
 
@@ -694,7 +759,9 @@
     au < released ; 2015 ; Equine Health Volume 2015 ; 2015 ; http://www.magonlinelibrary.com/ >
     au < released ; 2016 ; Equine Health Volume 2016 ; 2016 ; http://www.magonlinelibrary.com/ >
     au < released ; 2017 ; Equine Health Volume 2017 ; 2017 ; https://www.magonlinelibrary.com/ >
-    au < manifest ; 2018 ; Equine Health Volume 2018 ; 2018 ; https://www.magonlinelibrary.com/ >
+    au < released ; 2018 ; Equine Health Volume 2018 ; 2018 ; https://www.magonlinelibrary.com/ >
+    au < released ; 2019 ; Equine Health Volume 2019 ; 2019 ; https://www.magonlinelibrary.com/ >
+    au < manifest ; 2020 ; Equine Health Volume 2020 ; 2020 ; https://www.magonlinelibrary.com/ >
 
   }
 
@@ -716,6 +783,8 @@
     au < released ; 2016 ; Livestock Volume 21 ; 21 ; http://www.magonlinelibrary.com/ >
     au < released ; 2017 ; Livestock Volume 22 ; 22 ; https://www.magonlinelibrary.com/ >
     au < released ; 2018 ; Livestock Volume 23 ; 23 ; https://www.magonlinelibrary.com/ >
+    au < released ; 2019 ; Livestock Volume 24 ; 24 ; https://www.magonlinelibrary.com/ >
+    au < manifest ; 2020 ; Livestock Volume 25 ; 25 ; https://www.magonlinelibrary.com/ >
 
   }
 
@@ -737,7 +806,9 @@
     au < released ; 2015 ; The Veterinary Nurse Volume 6 ; 6 ; http://www.magonlinelibrary.com/ >
     au < released ; 2016 ; The Veterinary Nurse Volume 7 ; 7 ; http://www.magonlinelibrary.com/ >
     au < released ; 2017 ; The Veterinary Nurse Volume 8 ; 8 ; https://www.magonlinelibrary.com/ >
-    au < manifest ; 2018 ; The Veterinary Nurse Volume 9 ; 9 ; https://www.magonlinelibrary.com/ >
+    au < released ; 2018 ; The Veterinary Nurse Volume 9 ; 9 ; https://www.magonlinelibrary.com/ >
+    au < released ; 2019 ; The Veterinary Nurse Volume 10 ; 10 ; https://www.magonlinelibrary.com/ >
+    au < manifest ; 2020 ; The Veterinary Nurse Volume 11 ; 11 ; https://www.magonlinelibrary.com/ >
 
   }
 
@@ -762,7 +833,6 @@
     >
 
     comment[base_url] = http://www.practicalpreschool.com/magazine/childcare.shtml
-    # need to update base_url, website is down 
     param[journal_id] = chca
 
     au < manifest ; 2007-2008 ; Child Care Volume 4 ; 4 ; https://www.magonlinelibrary.com/ >
@@ -777,6 +847,8 @@
     au < released ; 2016 ; Child Care Volume 13 ; 13 ; http://www.magonlinelibrary.com/ >
     au < released ; 2017 ; Child Care Volume 14 ; 14 ; https://www.magonlinelibrary.com/ >
     au < released ; 2018 ; Child Care Volume 15 ; 15 ; https://www.magonlinelibrary.com/ >
+    au < released ; 2019 ; Child Care Volume 16 ; 16 ; https://www.magonlinelibrary.com/ >
+    au < expected ; 2020 ; Child Care Volume 17 ; 17 ; https://www.magonlinelibrary.com/ >
 
   }
 
@@ -811,6 +883,7 @@
     au < released ; 2017-2018 ; Early Years Educator (EYE) Volume 19 ; 19 ; https://www.magonlinelibrary.com/ >
     au < released ; 2018-2019 ; Early Years Educator (EYE) Volume 20 ; 20 ; https://www.magonlinelibrary.com/ >
     au < manifest ; 2019-2020 ; Early Years Educator (EYE) Volume 21 ; 21 ; https://www.magonlinelibrary.com/ >
+    au < manifest ; 2020-2021 ; Early Years Educator (EYE) Volume 22 ; 22 ; https://www.magonlinelibrary.com/ >
 
   }
 
@@ -856,7 +929,9 @@
     au < released ; 2015 ; Headteacher Update Volume 2015 ; 2015 ; http://www.magonlinelibrary.com/ >
     au < released ; 2016 ; Headteacher Update Volume 2016 ; 2016 ; http://www.magonlinelibrary.com/ >
     au < released ; 2017 ; Headteacher Update Volume 2017 ; 2017 ; https://www.magonlinelibrary.com/ >
-    au < manifest ; 2018 ; Headteacher Update Volume 2018 ; 2018 ; https://www.magonlinelibrary.com/ >
+    au < released ; 2018 ; Headteacher Update Volume 2018 ; 2018 ; https://www.magonlinelibrary.com/ >
+    au < released ; 2019 ; Headteacher Update Volume 2019 ; 2019 ; https://www.magonlinelibrary.com/ >
+    au < manifest ; 2020 ; Headteacher Update Volume 2020 ; 2020 ; https://www.magonlinelibrary.com/ >
 
   }
 
@@ -879,7 +954,9 @@
     au < released ; 2015 ; Nursery World Volume 2015 ; 2015 ; http://www.magonlinelibrary.com/ >
     au < released ; 2016 ; Nursery World Volume 2016 ; 2016 ; http://www.magonlinelibrary.com/ >
     au < released ; 2017 ; Nursery World Volume 2017 ; 2017 ; https://www.magonlinelibrary.com/ >
-    au < manifest ; 2018 ; Nursery World Volume 2018 ; 2018 ; https://www.magonlinelibrary.com/ >
+    au < released ; 2018 ; Nursery World Volume 2018 ; 2018 ; https://www.magonlinelibrary.com/ >
+    au < released ; 2019 ; Nursery World Volume 2019 ; 2019 ; https://www.magonlinelibrary.com/ >
+    au < manifest ; 2020 ; Nursery World Volume 2020 ; 2020 ; https://www.magonlinelibrary.com/ >
 
   }
 
@@ -900,10 +977,12 @@
     au < manifest ; 2012 ; Practical Pre-School Volume 2012 ; 2012 ; https://www.magonlinelibrary.com/ >
     au < released ; 2013 ; Practical Pre-School Volume 2013 ; 2013 ; http://www.magonlinelibrary.com/ >
     au < released ; 2014 ; Practical Pre-School Volume 2014 ; 2014 ; http://www.magonlinelibrary.com/ >
-    au < manifest ; 2015 ; Practical Pre-School Volume 2015 ; 2015 ; https://www.magonlinelibrary.com/ >
+    au < released ; 2015 ; Practical Pre-School Volume 2015 ; 2015 ; https://www.magonlinelibrary.com/ >
     au < released ; 2016 ; Practical Pre-School Volume 2016 ; 2016 ; http://www.magonlinelibrary.com/ >
     au < released ; 2017 ; Practical Pre-School Volume 2017 ; 2017 ; https://www.magonlinelibrary.com/ >
-    au < manifest ; 2018 ; Practical Pre-School Volume 2018 ; 2018 ; https://www.magonlinelibrary.com/ >
+    au < released ; 2018 ; Practical Pre-School Volume 2018 ; 2018 ; https://www.magonlinelibrary.com/ >
+    au < released ; 2019 ; Practical Pre-School Volume 2019 ; 2019 ; https://www.magonlinelibrary.com/ >
+    au < expected ; 2020 ; Practical Pre-School Volume 2020 ; 2020 ; https://www.magonlinelibrary.com/ >
 
   }
 
@@ -949,6 +1028,8 @@
     au < released ; 2016 ; SecEd Volume 2016 ; 2016 ; http://www.magonlinelibrary.com/ >
     au < released ; 2017 ; SecEd Volume 2017 ; 2017 ; https://www.magonlinelibrary.com/ >
     au < released ; 2018 ; SecEd Volume 2018 ; 2018 ; https://www.magonlinelibrary.com/ >
+    au < released ; 2019 ; SecEd Volume 2019 ; 2019 ; https://www.magonlinelibrary.com/ >
+    au < manifest ; 2020 ; SecEd Volume 2020 ; 2020 ; https://www.magonlinelibrary.com/ >
 
 
   }

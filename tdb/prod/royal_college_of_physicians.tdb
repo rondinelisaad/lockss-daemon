@@ -35,6 +35,8 @@
     au < exists ; 2016 ; Clinical Medicine Volume 16 ; 16 >
     au < exists ; 2017 ; Clinical Medicine Volume 17 ; 17 >
     au < exists ; 2018 ; Clinical Medicine Volume 18 ; 18 >
+    au < expected ; 2019 ; Clinical Medicine Volume 19 ; 19 >
+    au < expected ; 2020 ; Clinical Medicine Volume 20 ; 20 >
 
   }
     
@@ -53,6 +55,8 @@
     au < released ; 2016 ; Future Hospital Journal Volume 3 ; 3 >
     au < released ; 2017 ; Future Hospital Journal Volume 4 ; 4 >
     au < released ; 2018 ; Future Hospital Journal Volume 5 ; 5 >
+    au < expected ; 2019 ; Future Hospital Journal Volume 6 ; 6 >
+    au < expected ; 2020 ; Future Hospital Journal Volume 7 ; 7 >
 
   }
 

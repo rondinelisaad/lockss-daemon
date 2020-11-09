@@ -40,9 +40,10 @@
     au < finished ; finished ; 2014 ; International Journal of Geomechanics Volume 14 ; 14 ; http://ascelibrary.org/ ; reingest2.clockss.org:8085 >
     au < zapped ; finished ; 2015 ; International Journal of Geomechanics Volume 15 ; 15 ; http://ascelibrary.org/ ; reingest1.clockss.org:8082 >
     au < frozen ; exists ; 2016 ; International Journal of Geomechanics Volume 16 ; 16 ; http://ascelibrary.org/ ; >
-    au < finished ; crawling ; 2017 ; International Journal of Geomechanics Volume 17 ; 17 ; https://ascelibrary.org/ ; reingest1.clockss.org:8082 >
+    au < finished ; finished ; 2017 ; International Journal of Geomechanics Volume 17 ; 17 ; https://ascelibrary.org/ ; reingest1.clockss.org:8082 >
     au < deepCrawl ; exists ; 2018 ; International Journal of Geomechanics Volume 18 ; 18 ; https://ascelibrary.org/ ; >
-    au < manifest ; exists ; 2019 ; International Journal of Geomechanics Volume 19 ; 19 ; https://ascelibrary.org/ ; >
+    au < deepCrawl ; exists ; 2019 ; International Journal of Geomechanics Volume 19 ; 19 ; https://ascelibrary.org/ ; >
+    au < manifest ; exists ; 2020 ; International Journal of Geomechanics Volume 20 ; 20 ; https://ascelibrary.org/ ; >
 
   }
 
@@ -78,9 +79,10 @@
     au < finished ; finished ; 2014 ; Journal of Architectural Engineering Volume 20 ; 20 ; http://ascelibrary.org/ ; >
     au < finished ; finished ; 2015 ; Journal of Architectural Engineering Volume 21 ; 21 ; http://ascelibrary.org/ ; reingest5.clockss.org:8082 >
     au < frozen ; exists ; 2016 ; Journal of Architectural Engineering Volume 22 ; 22 ; http://ascelibrary.org/ ; >
-    au < finished ; crawling ; 2017 ; Journal of Architectural Engineering Volume 23 ; 23 ; https://ascelibrary.org/ ; reingest2.clockss.org:8085 >
+    au < finished ; finished ; 2017 ; Journal of Architectural Engineering Volume 23 ; 23 ; https://ascelibrary.org/ ; reingest2.clockss.org:8085 >
     au < deepCrawl ; exists ; 2018 ; Journal of Architectural Engineering Volume 24 ; 24 ; https://ascelibrary.org/ ; >
-    au < manifest ; exists ; 2019 ; Journal of Architectural Engineering Volume 25 ; 25 ; https://ascelibrary.org/ ; >
+    au < deepCrawl ; exists ; 2019 ; Journal of Architectural Engineering Volume 25 ; 25 ; https://ascelibrary.org/ ; >
+    au < manifest ; exists ; 2020 ; Journal of Architectural Engineering Volume 26 ; 26 ; https://ascelibrary.org/ ; >
 
   }
 
@@ -123,9 +125,10 @@
     au < zapped ; finished ; 2014 ; Journal of Aerospace Engineering Volume 27 ; 27 ; http://ascelibrary.org/ ; >
     au < zapped ; finished ; 2015 ; Journal of Aerospace Engineering Volume 28 ; 28 ; http://ascelibrary.org/ ; reingest2.clockss.org:8085 >
     au < frozen ; exists ; 2016 ; Journal of Aerospace Engineering Volume 29 ; 29 ; http://ascelibrary.org/ ; >
-    au < finished ; crawling ; 2017 ; Journal of Aerospace Engineering Volume 30 ; 30 ; https://ascelibrary.org/ ; reingest3.clockss.org:8083 >
+    au < finished ; finished ; 2017 ; Journal of Aerospace Engineering Volume 30 ; 30 ; https://ascelibrary.org/ ; reingest3.clockss.org:8083 >
     au < deepCrawl ; exists ; 2018 ; Journal of Aerospace Engineering Volume 31 ; 31 ; https://ascelibrary.org/ ; >
-    au < manifest ; exists ; 2019 ; Journal of Aerospace Engineering Volume 32 ; 32 ; https://ascelibrary.org/ ; >
+    au < deepCrawl ; exists ; 2019 ; Journal of Aerospace Engineering Volume 32 ; 32 ; https://ascelibrary.org/ ; >
+    au < manifest ; exists ; 2020 ; Journal of Aerospace Engineering Volume 33 ; 33 ; https://ascelibrary.org/ ; >
 
   }
 
@@ -165,9 +168,10 @@
       au < zapped ; finished ; 2014 ; Journal of Bridge Engineering Volume 19 ; 19 ; http://ascelibrary.org/ ; reingest2.clockss.org:8085 >
       au < zapped ; finished ; 2015 ; Journal of Bridge Engineering Volume 20 ; 20 ; http://ascelibrary.org/ ; reingest1.clockss.org:8082 >
       au < frozen ; exists ; 2016 ; Journal of Bridge Engineering Volume 21 ; 21 ; http://ascelibrary.org/ ; >
-      au < finished ; crawling ; 2017 ; Journal of Bridge Engineering Volume 22 ; 22 ; https://ascelibrary.org/ ; reingest4.clockss.org:8082 >
+      au < finished ; finished ; 2017 ; Journal of Bridge Engineering Volume 22 ; 22 ; https://ascelibrary.org/ ; reingest4.clockss.org:8082 >
       au < deepCrawl ; exists ; 2018 ; Journal of Bridge Engineering Volume 23 ; 23 ; https://ascelibrary.org/ ; >
-      au < manifest ; exists ; 2019 ; Journal of Bridge Engineering Volume 24 ; 24 ; https://ascelibrary.org/ ; >
+      au < deepCrawl ; exists ; 2019 ; Journal of Bridge Engineering Volume 24 ; 24 ; https://ascelibrary.org/ ; >
+      au < manifest ; exists ; 2020 ; Journal of Bridge Engineering Volume 25 ; 25 ; https://ascelibrary.org/ ; >
 
   }
 
@@ -203,7 +207,8 @@
     au < frozen ; exists ; 2016 ; Journal of Composites for Construction Volume 20 ; 20 ; http://ascelibrary.org/ ; >
     au < frozen ; exists ; 2017 ; Journal of Composites for Construction Volume 21 ; 21 ; https://ascelibrary.org/ ; >
     au < deepCrawl ; exists ; 2018 ; Journal of Composites for Construction Volume 22 ; 22 ; https://ascelibrary.org/ ; >
-    au < manifest ; exists ; 2019 ; Journal of Composites for Construction Volume 23 ; 23 ; https://ascelibrary.org/ ; >
+    au < deepCrawl ; exists ; 2019 ; Journal of Composites for Construction Volume 23 ; 23 ; https://ascelibrary.org/ ; >
+    au < manifest ; exists ; 2020 ; Journal of Composites for Construction Volume 24 ; 24 ; https://ascelibrary.org/ ; >
 
   }
 
@@ -247,9 +252,10 @@
     au < zapped ; finished ; 2014 ; Journal of Performance of Constructed Facilities Volume 28 ; 28 ; http://ascelibrary.org/ ; reingest5.clockss.org:8082 >
     au < zapped ; finished ; 2015 ; Journal of Performance of Constructed Facilities Volume 29 ; 29 ; http://ascelibrary.org/ ; reingest3.clockss.org:8083 >
     au < frozen ; exists ; 2016 ; Journal of Performance of Constructed Facilities Volume 30 ; 30 ; http://ascelibrary.org/ ; >
-    au < finished ; crawling ; 2017 ; Journal of Performance of Constructed Facilities Volume 31 ; 31 ; https://ascelibrary.org/ ; reingest5.clockss.org:8082 >
+    au < finished ; finished ; 2017 ; Journal of Performance of Constructed Facilities Volume 31 ; 31 ; https://ascelibrary.org/ ; reingest5.clockss.org:8082 >
     au < deepCrawl ; exists ; 2018 ; Journal of Performance of Constructed Facilities Volume 32 ; 32 ; https://ascelibrary.org/ ; >
-    au < manifest ; exists ; 2019 ; Journal of Performance of Constructed Facilities Volume 33 ; 33 ; https://ascelibrary.org/ ; >
+    au < deepCrawl ; exists ; 2019 ; Journal of Performance of Constructed Facilities Volume 33 ; 33 ; https://ascelibrary.org/ ; >
+    au < manifest ; exists ; 2020 ; Journal of Performance of Constructed Facilities Volume 34 ; 34 ; https://ascelibrary.org/ ; >
 
   }
 
@@ -297,9 +303,10 @@
     au < zapped ; finished ; 2014 ; Journal of Construction Engineering and Management Volume 140 ; 140 ; http://ascelibrary.org/ ; reingest2.clockss.org:8085 >
     au < zapped ; finished ; 2015 ; Journal of Construction Engineering and Management Volume 141 ; 141 ; http://ascelibrary.org/ ; reingest2.clockss.org:8085 >
     au < frozen ; exists ; 2016 ; Journal of Construction Engineering and Management Volume 142 ; 142 ; http://ascelibrary.org/ ; >
-    au < finished ; crawling ; 2017 ; Journal of Construction Engineering and Management Volume 143 ; 143 ; https://ascelibrary.org/ ; reingest1.clockss.org:8082 >
+    au < finished ; finished ; 2017 ; Journal of Construction Engineering and Management Volume 143 ; 143 ; https://ascelibrary.org/ ; reingest1.clockss.org:8082 >
     au < deepCrawl ; exists ; 2018 ; Journal of Construction Engineering and Management Volume 144 ; 144 ; https://ascelibrary.org/ ; >
-    au < manifest ; exists ; 2019 ; Journal of Construction Engineering and Management Volume 145 ; 145 ; https://ascelibrary.org/ ; >
+    au < deepCrawl ; exists ; 2019 ; Journal of Construction Engineering and Management Volume 145 ; 145 ; https://ascelibrary.org/ ; >
+    au < manifest ; exists ; 2020 ; Journal of Construction Engineering and Management Volume 146 ; 146 ; https://ascelibrary.org/ ; >
 
   }
 
@@ -343,9 +350,10 @@
     au < zapped ; finished ; 2014 ; Journal of Computing in Civil Engineering Volume 28 ; 28 ; http://ascelibrary.org/ ; reingest1.clockss.org:8082 >
     au < zapped ; finished ; 2015 ; Journal of Computing in Civil Engineering Volume 29 ; 29 ; http://ascelibrary.org/ ; reingest2.clockss.org:8085 >
     au < frozen ; exists ; 2016 ; Journal of Computing in Civil Engineering Volume 30 ; 30 ; http://ascelibrary.org/ ; >
-    au < finished ; crawling ; 2017 ; Journal of Computing in Civil Engineering Volume 31 ; 31 ; https://ascelibrary.org/ ; reingest1.clockss.org:8082 >
+    au < finished ; finished ; 2017 ; Journal of Computing in Civil Engineering Volume 31 ; 31 ; https://ascelibrary.org/ ; reingest1.clockss.org:8082 >
     au < deepCrawl ; exists ; 2018 ; Journal of Computing in Civil Engineering Volume 32 ; 32 ; https://ascelibrary.org/ ; >
-    au < manifest ; exists ; 2019 ; Journal of Computing in Civil Engineering Volume 33 ; 33 ; https://ascelibrary.org/ ; >
+    au < deepCrawl ; exists ; 2019 ; Journal of Computing in Civil Engineering Volume 33 ; 33 ; https://ascelibrary.org/ ; >
+    au < manifest ; exists ; 2020 ; Journal of Computing in Civil Engineering Volume 34 ; 34 ; https://ascelibrary.org/ ; >
 
   }
 
@@ -389,9 +397,10 @@
     au < finished ; finished ; 2014 ; Journal of Cold Regions Engineering Volume 28 ; 28 ; http://ascelibrary.org/ ; reingest2.clockss.org:8085 >
     au < finished ; finished ; 2015 ; Journal of Cold Regions Engineering Volume 29 ; 29 ; http://ascelibrary.org/ ; reingest5.clockss.org:8082 >
     au < frozen ; exists ; 2016 ; Journal of Cold Regions Engineering Volume 30 ; 30 ; http://ascelibrary.org/ ; >
-    au < finished ; crawling ; 2017 ; Journal of Cold Regions Engineering Volume 31 ; 31 ; https://ascelibrary.org/ ; reingest2.clockss.org:8085 >
+    au < finished ; finished ; 2017 ; Journal of Cold Regions Engineering Volume 31 ; 31 ; https://ascelibrary.org/ ; reingest2.clockss.org:8085 >
     au < deepCrawl ; exists ; 2018 ; Journal of Cold Regions Engineering Volume 32 ; 32 ; https://ascelibrary.org/ ; >
-    au < manifest ; exists ; 2019 ; Journal of Cold Regions Engineering Volume 33 ; 33 ; https://ascelibrary.org/ ; >
+    au < deepCrawl ; exists ; 2019 ; Journal of Cold Regions Engineering Volume 33 ; 33 ; https://ascelibrary.org/ ; >
+    au < manifest ; exists ; 2020 ; Journal of Cold Regions Engineering Volume 34 ; 34 ; https://ascelibrary.org/ ; >
 
   }
 
@@ -439,9 +448,10 @@
     au < zapped ; finished ; 2014 ; Journal of Environmental Engineering Volume 140 ; 140 ; http://ascelibrary.org/ ; reingest4.clockss.org:8082 >
     au < zapped ; finished ; 2015 ; Journal of Environmental Engineering Volume 141 ; 141 ; http://ascelibrary.org/ ; reingest2.clockss.org:8085 >
     au < frozen ; exists ; 2016 ; Journal of Environmental Engineering Volume 142 ; 142 ; http://ascelibrary.org/ ; >
-    au < finished ; crawling ; 2017 ; Journal of Environmental Engineering Volume 143 ; 143 ; https://ascelibrary.org/ ; reingest3.clockss.org:8083 >
+    au < finished ; finished ; 2017 ; Journal of Environmental Engineering Volume 143 ; 143 ; https://ascelibrary.org/ ; reingest3.clockss.org:8083 >
     au < deepCrawl ; exists ; 2018 ; Journal of Environmental Engineering Volume 144 ; 144 ; https://ascelibrary.org/ ; >
-    au < manifest ; exists ; 2019 ; Journal of Environmental Engineering Volume 145 ; 145 ; https://ascelibrary.org/ ; >
+    au < deepCrawl ; exists ; 2019 ; Journal of Environmental Engineering Volume 145 ; 145 ; https://ascelibrary.org/ ; >
+    au < manifest ; exists ; 2020 ; Journal of Environmental Engineering Volume 146 ; 146 ; https://ascelibrary.org/ ; >
 
   }
 
@@ -489,9 +499,10 @@
     au < zapped ; finished ; 2014 ; Journal of Engineering Mechanics Volume 140 ; 140 ; http://ascelibrary.org/ ; reingest2.clockss.org:8085 >
     au < zapped ; finished ; 2015 ; Journal of Engineering Mechanics Volume 141 ; 141 ; http://ascelibrary.org/ ; reingest1.clockss.org:8082 >
     au < frozen ; exists ; 2016 ; Journal of Engineering Mechanics Volume 142 ; 142 ; http://ascelibrary.org/ ; >
-    au < finished ; crawling ; 2017 ; Journal of Engineering Mechanics Volume 143 ; 143 ; https://ascelibrary.org/ ; reingest4.clockss.org:8082 >
+    au < finished ; finished ; 2017 ; Journal of Engineering Mechanics Volume 143 ; 143 ; https://ascelibrary.org/ ; reingest4.clockss.org:8082 >
     au < deepCrawl ; exists ; 2018 ; Journal of Engineering Mechanics Volume 144 ; 144 ; https://ascelibrary.org/ ; >
-    au < manifest ; exists ; 2019 ; Journal of Engineering Mechanics Volume 145 ; 145 ; https://ascelibrary.org/ ; >
+    au < deepCrawl ; exists ; 2019 ; Journal of Engineering Mechanics Volume 145 ; 145 ; https://ascelibrary.org/ ; >
+    au < manifest ; exists ; 2020 ; Journal of Engineering Mechanics Volume 146 ; 146 ; https://ascelibrary.org/ ; >
 
   }
 
@@ -539,9 +550,10 @@
     au < finished ; finished ; 2014 ; Journal of Energy Engineering Volume 140 ; 140 ; http://ascelibrary.org/ ; reingest2.clockss.org:8085 >
     au < zapped ; finished ; 2015 ; Journal of Energy Engineering Volume 141 ; 141 ; http://ascelibrary.org/ ; reingest3.clockss.org:8083 >
     au < frozen ; exists ; 2016 ; Journal of Energy Engineering Volume 142 ; 142 ; http://ascelibrary.org/ ; >
-    au < finished ; crawling ; 2017 ; Journal of Energy Engineering Volume 143 ; 143 ; https://ascelibrary.org/ ; reingest5.clockss.org:8082 >
+    au < finished ; finished ; 2017 ; Journal of Energy Engineering Volume 143 ; 143 ; https://ascelibrary.org/ ; reingest5.clockss.org:8082 >
     au < deepCrawl ; exists ; 2018 ; Journal of Energy Engineering Volume 144 ; 144 ; https://ascelibrary.org/ ; >
-    au < manifest ; exists ; 2019 ; Journal of Energy Engineering Volume 145 ; 145 ; https://ascelibrary.org/ ; >
+    au < deepCrawl ; exists ; 2019 ; Journal of Energy Engineering Volume 145 ; 145 ; https://ascelibrary.org/ ; >
+    au < manifest ; exists ; 2020 ; Journal of Energy Engineering Volume 146 ; 146 ; https://ascelibrary.org/ ; >
 
   }
 
@@ -589,9 +601,10 @@
     au < zapped ; finished ; 2014 ; Journal of Geotechnical and Geoenvironmental Engineering Volume 140 ; 140 ; http://ascelibrary.org/ ; reingest5.clockss.org:8082 >
     au < zapped ; finished ; 2015 ; Journal of Geotechnical and Geoenvironmental Engineering Volume 141 ; 141 ; http://ascelibrary.org/ ; reingest5.clockss.org:8082 >
     au < frozen ; exists ; 2016 ; Journal of Geotechnical and Geoenvironmental Engineering Volume 142 ; 142 ; http://ascelibrary.org/ ; >
-    au < finished ; crawling ; 2017 ; Journal of Geotechnical and Geoenvironmental Engineering Volume 143 ; 143 ; https://ascelibrary.org/ ; reingest1.clockss.org:8082 >
+    au < finished ; finished ; 2017 ; Journal of Geotechnical and Geoenvironmental Engineering Volume 143 ; 143 ; https://ascelibrary.org/ ; reingest1.clockss.org:8082 >
     au < deepCrawl ; exists ; 2018 ; Journal of Geotechnical and Geoenvironmental Engineering Volume 144 ; 144 ; https://ascelibrary.org/ ; >
-    au < manifest ; exists ; 2019 ; Journal of Geotechnical and Geoenvironmental Engineering Volume 145 ; 145 ; https://ascelibrary.org/ ; >
+    au < deepCrawl ; exists ; 2019 ; Journal of Geotechnical and Geoenvironmental Engineering Volume 145 ; 145 ; https://ascelibrary.org/ ; >
+    au < manifest ; exists ; 2020 ; Journal of Geotechnical and Geoenvironmental Engineering Volume 146 ; 146 ; https://ascelibrary.org/ ; >
 
   }
 
@@ -625,9 +638,10 @@
     au < finished ; finished ; 2014 ; Journal of Hazardous, Toxic and Radioactive Waste Volume 18 ; 18 ; http://ascelibrary.org/ ; reingest2.clockss.org:8085 >
     au < finished ; finished ; 2015 ; Journal of Hazardous, Toxic and Radioactive Waste Volume 19 ; 19 ; http://ascelibrary.org/ ; reingest4.clockss.org:8082 >
     au < frozen ; exists ; 2016 ; Journal of Hazardous, Toxic and Radioactive Waste Volume 20 ; 20 ; http://ascelibrary.org/ ; >
-    au < finished ; crawling ; 2017 ; Journal of Hazardous, Toxic and Radioactive Waste Volume 21 ; 21 ; https://ascelibrary.org/ ; reingest2.clockss.org:8085 >
+    au < finished ; finished ; 2017 ; Journal of Hazardous, Toxic and Radioactive Waste Volume 21 ; 21 ; https://ascelibrary.org/ ; reingest2.clockss.org:8085 >
     au < deepCrawl ; exists ; 2018 ; Journal of Hazardous, Toxic and Radioactive Waste Volume 22 ; 22 ; https://ascelibrary.org/ ; >
-    au < manifest ; exists ; 2019 ; Journal of Hazardous, Toxic and Radioactive Waste Volume 23 ; 23 ; https://ascelibrary.org/ ; >
+    au < deepCrawl ; exists ; 2019 ; Journal of Hazardous, Toxic and Radioactive Waste Volume 23 ; 23 ; https://ascelibrary.org/ ; >
+    au < manifest ; exists ; 2020 ; Journal of Hazardous, Toxic and Radioactive Waste Volume 24 ; 24 ; https://ascelibrary.org/ ; >
 
   }
 
@@ -662,9 +676,10 @@
     au < zapped ; finished ; 2014 ; Journal of Hydrologic Engineering Volume 19 ; 19 ; http://ascelibrary.org/ ; reingest3.clockss.org:8083 >
     au < zapped ; finished ; 2015 ; Journal of Hydrologic Engineering Volume 20 ; 20 ; http://ascelibrary.org/ ; reingest4.clockss.org:8082 >
     au < frozen ; exists ; 2016 ; Journal of Hydrologic Engineering Volume 21 ; 21 ; http://ascelibrary.org/ ; >
-    au < finished ; crawling ; 2017 ; Journal of Hydrologic Engineering Volume 22 ; 22 ; https://ascelibrary.org/ ; reingest3.clockss.org:8083 >
+    au < finished ; finished ; 2017 ; Journal of Hydrologic Engineering Volume 22 ; 22 ; https://ascelibrary.org/ ; reingest3.clockss.org:8083 >
     au < deepCrawl ; exists ; 2018 ; Journal of Hydrologic Engineering Volume 23 ; 23 ; https://ascelibrary.org/ ; >
-    au < manifest ; exists ; 2019 ; Journal of Hydrologic Engineering Volume 24 ; 24 ; https://ascelibrary.org/ ; >
+    au < deepCrawl ; exists ; 2019 ; Journal of Hydrologic Engineering Volume 24 ; 24 ; https://ascelibrary.org/ ; >
+    au < manifest ; exists ; 2020 ; Journal of Hydrologic Engineering Volume 25 ; 25 ; https://ascelibrary.org/ ; >
 
   }
 
@@ -712,9 +727,10 @@
     au < zapped ; finished ; 2014 ; Journal of Hydraulic Engineering Volume 140 ; 140 ; http://ascelibrary.org/ ; reingest3.clockss.org:8083 >
     au < zapped ; finished ; 2015 ; Journal of Hydraulic Engineering Volume 141 ; 141 ; http://ascelibrary.org/ ; reingest2.clockss.org:8085 >
     au < frozen ; exists ; 2016 ; Journal of Hydraulic Engineering Volume 142 ; 142 ; http://ascelibrary.org/ ; >
-    au < finished ; crawling ; 2017 ; Journal of Hydraulic Engineering Volume 143 ; 143 ; https://ascelibrary.org/ ; reingest4.clockss.org:8082 >
+    au < finished ; finished ; 2017 ; Journal of Hydraulic Engineering Volume 143 ; 143 ; https://ascelibrary.org/ ; reingest4.clockss.org:8082 >
     au < deepCrawl ; exists ; 2018 ; Journal of Hydraulic Engineering Volume 144 ; 144 ; https://ascelibrary.org/ ; >
-    au < manifest ; exists ; 2019 ; Journal of Hydraulic Engineering Volume 145 ; 145 ; https://ascelibrary.org/ ; >
+    au < deepCrawl ; exists ; 2019 ; Journal of Hydraulic Engineering Volume 145 ; 145 ; https://ascelibrary.org/ ; >
+    au < manifest ; exists ; 2020 ; Journal of Hydraulic Engineering Volume 146 ; 146 ; https://ascelibrary.org/ ; >
 
   }
 
@@ -762,9 +778,10 @@
     au < zapped ; finished ; 2014 ; Journal of Irrigation and Drainage Engineering Volume 140 ; 140 ; http://ascelibrary.org/ ; reingest2.clockss.org:8085 >
     au < zapped ; finished ; 2015 ; Journal of Irrigation and Drainage Engineering Volume 141 ; 141 ; http://ascelibrary.org/ ; reingest5.clockss.org:8082 >
     au < frozen ; exists ; 2016 ; Journal of Irrigation and Drainage Engineering Volume 142 ; 142 ; http://ascelibrary.org/ ; >
-    au < finished ; crawling ; 2017 ; Journal of Irrigation and Drainage Engineering Volume 143 ; 143 ; https://ascelibrary.org/ ; reingest5.clockss.org:8082 >
+    au < finished ; finished ; 2017 ; Journal of Irrigation and Drainage Engineering Volume 143 ; 143 ; https://ascelibrary.org/ ; reingest5.clockss.org:8082 >
     au < deepCrawl ; exists ; 2018 ; Journal of Irrigation and Drainage Engineering Volume 144 ; 144 ; https://ascelibrary.org/ ; >
-    au < manifest ; exists ; 2019 ; Journal of Irrigation and Drainage Engineering Volume 145 ; 145 ; https://ascelibrary.org/ ; >
+    au < deepCrawl ; exists ; 2019 ; Journal of Irrigation and Drainage Engineering Volume 145 ; 145 ; https://ascelibrary.org/ ; >
+    au < manifest ; exists ; 2020 ; Journal of Irrigation and Drainage Engineering Volume 146 ; 146 ; https://ascelibrary.org/ ; >
 
   }
 
@@ -800,9 +817,10 @@
     au < finished ; finished ; 2014 ; Journal of Infrastructure Systems Volume 20 ; 20 ; http://ascelibrary.org/ ; >
     au < finished ; finished ; 2015 ; Journal of Infrastructure Systems Volume 21 ; 21 ; http://ascelibrary.org/ ; reingest1.clockss.org:8082 >
     au < frozen ; exists ; 2016 ; Journal of Infrastructure Systems Volume 22 ; 22 ; http://ascelibrary.org/ ; >
-    au < finished ; crawling ; 2017 ; Journal of Infrastructure Systems Volume 23 ; 23 ; https://ascelibrary.org/ ; reingest1.clockss.org:8082 >
+    au < finished ; finished ; 2017 ; Journal of Infrastructure Systems Volume 23 ; 23 ; https://ascelibrary.org/ ; reingest1.clockss.org:8082 >
     au < deepCrawl ; exists ; 2018 ; Journal of Infrastructure Systems Volume 24 ; 24 ; https://ascelibrary.org/ ; >
-    au < manifest ; exists ; 2019 ; Journal of Infrastructure Systems Volume 25 ; 25 ; https://ascelibrary.org/ ; >
+    au < deepCrawl ; exists ; 2019 ; Journal of Infrastructure Systems Volume 25 ; 25 ; https://ascelibrary.org/ ; >
+    au < manifest ; exists ; 2020 ; Journal of Infrastructure Systems Volume 26 ; 26 ; https://ascelibrary.org/ ; >
 
   }
 
@@ -824,9 +842,10 @@
     au < finished ; finished ; 2014 ; Journal of Legal Affairs and Dispute Resolution in Engineering and Construction Volume 6 ; 6 ; http://ascelibrary.org/ ; reingest2.clockss.org:8085 >
     au < finished ; finished ; 2015 ; Journal of Legal Affairs and Dispute Resolution in Engineering and Construction Volume 7 ; 7 ; http://ascelibrary.org/ ; reingest5.clockss.org:8082 >
     au < frozen ; exists ; 2016 ; Journal of Legal Affairs and Dispute Resolution in Engineering and Construction Volume 8 ; 8 ; http://ascelibrary.org/ ; >
-    au < finished ; crawling ; 2017 ; Journal of Legal Affairs and Dispute Resolution in Engineering and Construction Volume 9 ; 9 ; https://ascelibrary.org/ ; reingest2.clockss.org:8085 >
+    au < finished ; finished ; 2017 ; Journal of Legal Affairs and Dispute Resolution in Engineering and Construction Volume 9 ; 9 ; https://ascelibrary.org/ ; reingest2.clockss.org:8085 >
     au < deepCrawl ; exists ; 2018 ; Journal of Legal Affairs and Dispute Resolution in Engineering and Construction Volume 10 ; 10 ; https://ascelibrary.org/ ; >
-    au < manifest ; exists ; 2019 ; Journal of Legal Affairs and Dispute Resolution in Engineering and Construction Volume 11 ; 11 ; https://ascelibrary.org/ ; >
+    au < deepCrawl ; exists ; 2019 ; Journal of Legal Affairs and Dispute Resolution in Engineering and Construction Volume 11 ; 11 ; https://ascelibrary.org/ ; >
+    au < manifest ; exists ; 2020 ; Journal of Legal Affairs and Dispute Resolution in Engineering and Construction Volume 12 ; 12 ; https://ascelibrary.org/ ; >
 
   }
 
@@ -872,9 +891,10 @@
     au < finished ; finished ; 2014 ; Journal of Management in Engineering Volume 30 ; 30 ; http://ascelibrary.org/ ; reingest1.clockss.org:8082 >
     au < zapped ; finished ; 2015 ; Journal of Management in Engineering Volume 31 ; 31 ; http://ascelibrary.org/ ; reingest1.clockss.org:8082 >
     au < frozen ; exists ; 2016 ; Journal of Management in Engineering Volume 32 ; 32 ; http://ascelibrary.org/ ; >
-    au < finished ; crawling ; 2017 ; Journal of Management in Engineering Volume 33 ; 33 ; https://ascelibrary.org/ ; reingest3.clockss.org:8083 >
+    au < finished ; finished ; 2017 ; Journal of Management in Engineering Volume 33 ; 33 ; https://ascelibrary.org/ ; reingest3.clockss.org:8083 >
     au < deepCrawl ; exists ; 2018 ; Journal of Management in Engineering Volume 34 ; 34 ; https://ascelibrary.org/ ; >
-    au < manifest ; exists ; 2019 ; Journal of Management in Engineering Volume 35 ; 35 ; https://ascelibrary.org/ ; >
+    au < deepCrawl ; exists ; 2019 ; Journal of Management in Engineering Volume 35 ; 35 ; https://ascelibrary.org/ ; >
+    au < manifest ; exists ; 2020 ; Journal of Management in Engineering Volume 36 ; 36 ; https://ascelibrary.org/ ; >
 
   }
 
@@ -916,9 +936,10 @@
     au < zapped ; finished ; 2014 ; Journal of Materials in Civil Engineering Volume 26 ; 26 ; http://ascelibrary.org/ ; >
     au < zapped ; finished ; 2015 ; Journal of Materials in Civil Engineering Volume 27 ; 27 ; http://ascelibrary.org/ ; reingest5.clockss.org:8082 >
     au < frozen ; exists ; 2016 ; Journal of Materials in Civil Engineering Volume 28 ; 28 ; http://ascelibrary.org/ ; >
-    au < finished ; crawling ; 2017 ; Journal of Materials in Civil Engineering Volume 29 ; 29 ; https://ascelibrary.org/ ; reingest4.clockss.org:8082 >
+    au < finished ; finished ; 2017 ; Journal of Materials in Civil Engineering Volume 29 ; 29 ; https://ascelibrary.org/ ; reingest4.clockss.org:8082 >
     au < deepCrawl ; exists ; 2018 ; Journal of Materials in Civil Engineering Volume 30 ; 30 ; https://ascelibrary.org/ ; >
-    au < manifest ; exists ; 2019 ; Journal of Materials in Civil Engineering Volume 31 ; 31 ; https://ascelibrary.org/ ; >
+    au < deepCrawl ; exists ; 2019 ; Journal of Materials in Civil Engineering Volume 31 ; 31 ; https://ascelibrary.org/ ; >
+    au < manifest ; exists ; 2020 ; Journal of Materials in Civil Engineering Volume 32 ; 32 ; https://ascelibrary.org/ ; >
 
   }
 
@@ -951,6 +972,7 @@
       eissn = 1943-5541
     >
 
+    {
     param[journal_id] = jpepe3
 
     au < manifest ; exists ; 1983 ; Journal of Professional Issues in Engineering Education and Practice Volume 109 ; 109 ; https://ascelibrary.org/ ; >
@@ -987,10 +1009,15 @@
     au < finished ; finished ; 2014 ; Journal of Professional Issues in Engineering Education and Practice Volume 140 ; 140 ; http://ascelibrary.org/ ; reingest5.clockss.org:8082 >
     au < finished ; finished ; 2015 ; Journal of Professional Issues in Engineering Education and Practice Volume 141 ; 141 ; http://ascelibrary.org/ ; reingest4.clockss.org:8082 >
     au < frozen ; exists ; 2016 ; Journal of Professional Issues in Engineering Education and Practice Volume 142 ; 142 ; http://ascelibrary.org/ ; >
-    au < finished ; crawling ; 2017 ; Journal of Professional Issues in Engineering Education and Practice Volume 143 ; 143 ; https://ascelibrary.org/ ; reingest5.clockss.org:8082 >
+    au < finished ; finished ; 2017 ; Journal of Professional Issues in Engineering Education and Practice Volume 143 ; 143 ; https://ascelibrary.org/ ; reingest5.clockss.org:8082 >
     au < deepCrawl ; exists ; 2018 ; Journal of Professional Issues in Engineering Education and Practice Volume 144 ; 144 ; https://ascelibrary.org/ ; >
-    au < manifest ; exists ; 2019 ; Journal of Professional Issues in Engineering Education and Practice Volume 145 ; 145 ; https://ascelibrary.org/ ; >
+    au < deepCrawl ; exists ; 2019 ; Journal of Professional Issues in Engineering Education and Practice Volume 145 ; 145 ; https://ascelibrary.org/ ; >
+    }
+    {
+    param[journal_id] = jceecd
 
+    au < manifest ; exists ; 2020 ; Journal of Professional Issues in Engineering Education and Practice Volume 146 ; 146 ; https://ascelibrary.org/ ; >
+    }
   }
 
   {
@@ -1012,7 +1039,8 @@
     au < frozen ; exists ; 2016 ; Journal of Pipeline Systems Engineering and Practice Volume 7 ; 7 ; http://ascelibrary.org/ ; >
     au < frozen ; exists ; 2017 ; Journal of Pipeline Systems Engineering and Practice Volume 8 ; 8 ; https://ascelibrary.org/ ; >
     au < deepCrawl ; exists ; 2018 ; Journal of Pipeline Systems Engineering and Practice Volume 9 ; 9 ; https://ascelibrary.org/ ; >
-    au < manifest ; exists ; 2019 ; Journal of Pipeline Systems Engineering and Practice Volume 10 ; 10 ; https://ascelibrary.org/ ; >
+    au < deepCrawl ; exists ; 2019 ; Journal of Pipeline Systems Engineering and Practice Volume 10 ; 10 ; https://ascelibrary.org/ ; >
+    au < manifest ; exists ; 2020 ; Journal of Pipeline Systems Engineering and Practice Volume 11 ; 11 ; https://ascelibrary.org/ ; >
 
   }
 
@@ -1060,9 +1088,10 @@
     au < zapped ; finished ; 2014 ; Journal of Structural Engineering Volume 140 ; 140 ; http://ascelibrary.org/ ; reingest5.clockss.org:8082 >
     au < zapped ; finished ; 2015 ; Journal of Structural Engineering Volume 141 ; 141 ; http://ascelibrary.org/ ; reingest2.clockss.org:8085 >
     au < frozen ; exists ; 2016 ; Journal of Structural Engineering Volume 142 ; 142 ; http://ascelibrary.org/ ; >
-    au < finished ; crawling ; 2017 ; Journal of Structural Engineering Volume 143 ; 143 ; https://ascelibrary.org/ ; reingest1.clockss.org:8082 >
+    au < finished ; finished ; 2017 ; Journal of Structural Engineering Volume 143 ; 143 ; https://ascelibrary.org/ ; reingest1.clockss.org:8082 >
     au < deepCrawl ; exists ; 2018 ; Journal of Structural Engineering Volume 144 ; 144 ; https://ascelibrary.org/ ; >
-    au < manifest ; exists ; 2019 ; Journal of Structural Engineering Volume 145 ; 145 ; https://ascelibrary.org/ ; >
+    au < deepCrawl ; exists ; 2019 ; Journal of Structural Engineering Volume 145 ; 145 ; https://ascelibrary.org/ ; >
+    au < manifest ; exists ; 2020 ; Journal of Structural Engineering Volume 146 ; 146 ; https://ascelibrary.org/ ; >
 
   }
 
@@ -1110,9 +1139,10 @@
     au < finished ; finished ; 2014 ; Journal of Surveying Engineering Volume 140 ; 140 ; http://ascelibrary.org/ ; reingest1.clockss.org:8082 >
     au < finished ; finished ; 2015 ; Journal of Surveying Engineering Volume 141 ; 141 ; http://ascelibrary.org/ ; reingest3.clockss.org:8083 >
     au < frozen ; exists ; 2016 ; Journal of Surveying Engineering Volume 142 ; 142 ; http://ascelibrary.org/ ; >
-    au < finished ; crawling ; 2017 ; Journal of Surveying Engineering Volume 143 ; 143 ; https://ascelibrary.org/ ; reingest2.clockss.org:8085 >
+    au < finished ; finished ; 2017 ; Journal of Surveying Engineering Volume 143 ; 143 ; https://ascelibrary.org/ ; reingest2.clockss.org:8085 >
     au < deepCrawl ; exists ; 2018 ; Journal of Surveying Engineering Volume 144 ; 144 ; https://ascelibrary.org/ ; >
-    au < manifest ; exists ; 2019 ; Journal of Surveying Engineering Volume 145 ; 145 ; https://ascelibrary.org/ ; >
+    au < deepCrawl ; exists ; 2019 ; Journal of Surveying Engineering Volume 145 ; 145 ; https://ascelibrary.org/ ; >
+    au < manifest ; exists ; 2020 ; Journal of Surveying Engineering Volume 146 ; 146 ; https://ascelibrary.org/ ; >
 
   }
 
@@ -1124,6 +1154,7 @@
       eissn = 1943-5436
     >
 
+    {
     param[journal_id] = jtpedi
 
     au < manifest ; exists ; 1983 ; Journal of Transportation Engineering Volume 109 ; 109 ; https://ascelibrary.org/ ; >
@@ -1160,10 +1191,15 @@
     au < zapped ; finished ; 2014 ; Journal of Transportation Engineering Volume 140 ; 140 ; http://ascelibrary.org/ ; reingest1.clockss.org:8082 >
     au < finished ; finished ; 2015 ; Journal of Transportation Engineering Volume 141 ; 141 ; http://ascelibrary.org/ ; reingest5.clockss.org:8082 >
     au < frozen ; exists ; 2016 ; Journal of Transportation Engineering Volume 142 ; 142 ; http://ascelibrary.org/ ; >
-    au < exists ; exists ; 2017 ; Journal of Transportation Engineering Volume 143 ; 143 ; https://ascelibrary.org/ ; >
-    au < exists ; exists ; 2018 ; Journal of Transportation Engineering Volume 144 ; 144 ; https://ascelibrary.org/ ; >
-    au < expected ; exists ; 2019 ; Journal of Transportation Engineering Volume 145 ; 145 ; https://ascelibrary.org/ ; >
+    }
+    {
+    param[journal_id] = jtepbs
 
+    au < manifest ; exists ; 2017 ; Journal of Transportation Engineering Volume 143 ; 143 ; https://ascelibrary.org/ ; >
+    au < manifest ; exists ; 2018 ; Journal of Transportation Engineering Volume 144 ; 144 ; https://ascelibrary.org/ ; >
+    au < manifest ; exists ; 2019 ; Journal of Transportation Engineering Volume 145 ; 145 ; https://ascelibrary.org/ ; >
+    au < manifest ; exists ; 2020 ; Journal of Transportation Engineering Volume 146 ; 146 ; https://ascelibrary.org/ ; >
+    }
   }
 
   {
@@ -1210,9 +1246,10 @@
     au < finished ; finished ; 2014 ; Journal of Urban Planning and Development Volume 140 ; 140 ; http://ascelibrary.org/ ; reingest4.clockss.org:8082 >
     au < zapped ; finished ; 2015 ; Journal of Urban Planning and Development Volume 141 ; 141 ; http://ascelibrary.org/ ; reingest4.clockss.org:8082 >
     au < frozen ; exists ; 2016 ; Journal of Urban Planning and Development Volume 142 ; 142 ; http://ascelibrary.org/ ; >
-    au < finished ; crawling ; 2017 ; Journal of Urban Planning and Development Volume 143 ; 143 ; https://ascelibrary.org/ ; reingest3.clockss.org:8083 >
+    au < finished ; finished ; 2017 ; Journal of Urban Planning and Development Volume 143 ; 143 ; https://ascelibrary.org/ ; reingest3.clockss.org:8083 >
     au < deepCrawl ; exists ; 2018 ; Journal of Urban Planning and Development Volume 144 ; 144 ; https://ascelibrary.org/ ; >
-    au < manifest ; exists ; 2019 ; Journal of Urban Planning and Development Volume 145 ; 145 ; https://ascelibrary.org/ ; >
+    au < deepCrawl ; exists ; 2019 ; Journal of Urban Planning and Development Volume 145 ; 145 ; https://ascelibrary.org/ ; >
+    au < manifest ; exists ; 2020 ; Journal of Urban Planning and Development Volume 146 ; 146 ; https://ascelibrary.org/ ; >
 
   }
 
@@ -1260,9 +1297,10 @@
     au < zapped ; finished ; 2014 ; Journal of Water Resources Planning and Management Volume 140 ; 140 ; http://ascelibrary.org/ ; reingest5.clockss.org:8082 >
     au < zapped ; finished ; 2015 ; Journal of Water Resources Planning and Management Volume 141 ; 141 ; http://ascelibrary.org/ ; reingest2.clockss.org:8085 >
     au < frozen ; exists ; 2016 ; Journal of Water Resources Planning and Management Volume 142 ; 142 ; http://ascelibrary.org/ ; >
-    au < finished ; crawling ; 2017 ; Journal of Water Resources Planning and Management Volume 143 ; 143 ; https://ascelibrary.org/ ; reingest4.clockss.org:8082 >
+    au < finished ; finished ; 2017 ; Journal of Water Resources Planning and Management Volume 143 ; 143 ; https://ascelibrary.org/ ; reingest4.clockss.org:8082 >
     au < deepCrawl ; exists ; 2018 ; Journal of Water Resources Planning and Management Volume 144 ; 144 ; https://ascelibrary.org/ ; >
-    au < manifest ; exists ; 2019 ; Journal of Water Resources Planning and Management Volume 145 ; 145 ; https://ascelibrary.org/ ; >
+    au < deepCrawl ; exists ; 2019 ; Journal of Water Resources Planning and Management Volume 145 ; 145 ; https://ascelibrary.org/ ; >
+    au < manifest ; exists ; 2020 ; Journal of Water Resources Planning and Management Volume 146 ; 146 ; https://ascelibrary.org/ ; >
 
   }
 
@@ -1310,9 +1348,10 @@
     au < finished ; finished ; 2014 ; Journal of Waterway, Port, Coastal, and Ocean Engineering Volume 140 ; 140 ; http://ascelibrary.org/ ; reingest5.clockss.org:8082 >
     au < finished ; finished ; 2015 ; Journal of Waterway, Port, Coastal, and Ocean Engineering Volume 141 ; 141 ; http://ascelibrary.org/ ; reingest5.clockss.org:8082 >
     au < frozen ; exists ; 2016 ; Journal of Waterway, Port, Coastal, and Ocean Engineering Volume 142 ; 142 ; http://ascelibrary.org/ ; >
-    au < finished ; crawling ; 2017 ; Journal of Waterway, Port, Coastal, and Ocean Engineering Volume 143 ; 143 ; https://ascelibrary.org/ ; reingest5.clockss.org:8082 >
+    au < finished ; finished ; 2017 ; Journal of Waterway, Port, Coastal, and Ocean Engineering Volume 143 ; 143 ; https://ascelibrary.org/ ; reingest5.clockss.org:8082 >
     au < deepCrawl ; exists ; 2018 ; Journal of Waterway, Port, Coastal, and Ocean Engineering Volume 144 ; 144 ; https://ascelibrary.org/ ; >
-    au < manifest ; exists ; 2019 ; Journal of Waterway, Port, Coastal, and Ocean Engineering Volume 145 ; 145 ; https://ascelibrary.org/ ; >
+    au < deepCrawl ; exists ; 2019 ; Journal of Waterway, Port, Coastal, and Ocean Engineering Volume 145 ; 145 ; https://ascelibrary.org/ ; >
+    au < manifest ; exists ; 2020 ; Journal of Waterway, Port, Coastal, and Ocean Engineering Volume 146 ; 146 ; https://ascelibrary.org/ ; >
 
   }
 
@@ -1369,9 +1408,10 @@
     au < finished ; finished ; 2014 ; Natural Hazards Review Volume 15 ; 15 ; http://ascelibrary.org/ ; reingest5.clockss.org:8082 >
     au < zapped ; finished ; 2015 ; Natural Hazards Review Volume 16 ; 16 ; http://ascelibrary.org/ ; reingest5.clockss.org:8082 >
     au < frozen ; exists ; 2016 ; Natural Hazards Review Volume 17 ; 17 ; http://ascelibrary.org/ ; >
-    au < finished ; crawling ; 2017 ; Natural Hazards Review Volume 18 ; 18 ; https://ascelibrary.org/ ; reingest1.clockss.org:8082 >
+    au < finished ; finished ; 2017 ; Natural Hazards Review Volume 18 ; 18 ; https://ascelibrary.org/ ; reingest1.clockss.org:8082 >
     au < deepCrawl ; exists ; 2018 ; Natural Hazards Review Volume 19 ; 19 ; https://ascelibrary.org/ ; >
-    au < manifest ; exists ; 2019 ; Natural Hazards Review Volume 20 ; 20 ; https://ascelibrary.org/ ; >
+    au < deepCrawl ; exists ; 2019 ; Natural Hazards Review Volume 20 ; 20 ; https://ascelibrary.org/ ; >
+    au < manifest ; exists ; 2020 ; Natural Hazards Review Volume 21 ; 21 ; https://ascelibrary.org/ ; >
 
   }
 
@@ -1406,9 +1446,10 @@
     au < finished ; finished ; 2014 ; Practice Periodical on Structural Design & Construction Volume 19 ; 19 ; http://ascelibrary.org/ ; reingest1.clockss.org:8082 >
     au < finished ; finished ; 2015 ; Practice Periodical on Structural Design & Construction Volume 20 ; 20 ; http://ascelibrary.org/ ; reingest5.clockss.org:8082 >
     au < frozen ; exists ; 2016 ; Practice Periodical on Structural Design & Construction Volume 21 ; 21 ; http://ascelibrary.org/ ; >
-    au < finished ; crawling ; 2017 ; Practice Periodical on Structural Design & Construction Volume 22 ; 22 ; https://ascelibrary.org/ ; reingest2.clockss.org:8085 >
+    au < finished ; finished ; 2017 ; Practice Periodical on Structural Design & Construction Volume 22 ; 22 ; https://ascelibrary.org/ ; reingest2.clockss.org:8085 >
     au < deepCrawl ; exists ; 2018 ; Practice Periodical on Structural Design & Construction Volume 23 ; 23 ; https://ascelibrary.org/ ; >
-    au < manifest ; exists ; 2019 ; Practice Periodical on Structural Design & Construction Volume 24 ; 24 ; https://ascelibrary.org/ ; >
+    au < deepCrawl ; exists ; 2019 ; Practice Periodical on Structural Design & Construction Volume 24 ; 24 ; https://ascelibrary.org/ ; >
+    au < manifest ; exists ; 2020 ; Practice Periodical on Structural Design & Construction Volume 25 ; 25 ; https://ascelibrary.org/ ; >
 
   }
 

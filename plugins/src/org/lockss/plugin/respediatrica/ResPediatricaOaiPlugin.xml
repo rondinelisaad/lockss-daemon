@@ -1,11 +1,15 @@
 <map>
     <entry>
         <string>plugin_status</string>
-        <string>ready</string>
+        <string>development</string>
     </entry>
     <entry>
         <string>plugin_identifier</string>
         <string>org.lockss.plugin.respediatrica.ResPediatricaOaiPlugin</string>
+    </entry>
+    <entry>
+        <string>plugin_name</string>
+        <string>ResPediatrica OAI Plugin</string>
     </entry>
     <entry>
         <string>plugin_version</string>
@@ -29,61 +33,11 @@
         </map>
     </entry>
     <entry>
-        <string>plugin_name</string>
-        <string>ResPediatrica OAI Plugin</string>
-    </entry>
-    <entry>
-        <string>required_daemon_version</string>
-        <!-- for no store exception-->
-        <string>1.72.0</string>
-    </entry>
-    <entry>
-        <string>au_def_pause_time</string>
-        <long>3000</long>
-    </entry>
-    <entry>
-        <string>au_name</string>
-        <string>"ResPediatrica OAI Plugin, Base URL %s, OAI Set %s, OAI Date %s", base_url, au_oai_set, au_oai_date</string>
-    </entry>
-    <entry>
-        <string>au_start_url</string>
-        <string>"%soai?verb=ListRecords&amp;from=2012-01-01&amp;until=2012-12-31&amp;metadataPrefix=oai_dc", base_url</string>
-    </entry>
-    <entry>
-        <string>au_permission_url</string>
-        <string>"%s", to_http(base_url)</string>
-    </entry>
-    <entry>
-        <string>au_additional_url_stems</string>
-        <list>
-            <string>"%s", to_http(base_url)</string>
-        </list>
-    </entry>
-    <entry>
-        <string>au_def_new_content_crawl</string>
-        <long>1209600000</long>
-    </entry>
-    <entry>
-        <string>au_crawlrules</string>
-        <list>
-            <string>1,"^http://%s/.+[.](bmp|css|gif|ico|jpe?g|js|png|tif?f|eot|svg|ttf|woff.?)([?]v=.*)?$", url_host(base_url)</string>
-            <string>1,"^http://%s", url_host(base_url)</string>
-        </list>
-    </entry>
-    <!--
-    <entry>
-        <string>au_substance_url_pattern</string>
-        <list>
-            <string>"^http?://%s/article/[0-9]+/download/pdf(/|/[0-9]+)?$", url_host(base_url)</string>
-        </list>
-    </entry>
-    -->
-    <entry>
         <string>plugin_config_props</string>
         <list>
             <org.lockss.daemon.ConfigParamDescr>
                 <key>base_url</key>
-                <displayName>Base URL</displayName>
+                <displayName>Base URLs</displayName>
                 <description>Usually of the form http://&lt;journal-name&gt;.com/</description>
                 <type>3</type>
                 <size>40</size>
@@ -91,35 +45,64 @@
                 <defaultOnly>false</defaultOnly>
             </org.lockss.daemon.ConfigParamDescr>
             <org.lockss.daemon.ConfigParamDescr>
-                <key>au_oai_set</key>
-                <displayName>OAI Set</displayName>
-                <description>OAI PMH set of this AU. [NONE] if you would like to include all sets</description>
-                <type>1</type>
-                <size>20</size>
+                <key>year</key>
+                <displayName>Year</displayName>
+                <description>Four digit year (e.g., 2004)</description>
+                <type>4</type>
+                <size>4</size>
                 <definitional>true</definitional>
                 <defaultOnly>false</defaultOnly>
             </org.lockss.daemon.ConfigParamDescr>
-
             <org.lockss.daemon.ConfigParamDescr>
-                <key>au_oai_date</key>
-                <displayName>OAI Date</displayName>
-                <description>Rules to filter records based upon metadata</description>
+                <key>oai_granularity</key>
+                <displayName>OAI Granularity</displayName>
+                <description>Rules to filter records based upon granularity, use "YYYY-MM-DD"</description>
                 <type>1</type>
                 <size>128</size>
                 <definitional>true</definitional>
                 <defaultOnly>false</defaultOnly>
             </org.lockss.daemon.ConfigParamDescr>
-            <!--
-            <org.lockss.daemon.ConfigParamDescr>
-                <key>year</key>
-                <displayName>Year</displayName>
-                <description>Year will set to "from" Year-01-01 "to" Year-12-31</description>
-                <type>1</type>
-                <size>4</size>
-                <definitional>true</definitional>
-                <defaultOnly>false</defaultOnly>
-            </org.lockss.daemon.ConfigParamDescr>
-            -->
+        </list>
+    </entry>
+    <entry>
+        <string>au_name</string>
+        <string>"ResPediatrica OAI Plugin, Base URL %s, Year %d", base_url, year</string>
+    </entry>
+    <entry>
+        <string>au_start_url</string>
+        <!--http://residenciapediatrica.com.br/oai?verb=ListRecords&metadataPrefix=oai_dc&from=2012-01-01&until=2012-12-31-->
+        <string>"%soai?verb=ListRecords&amp;metadataPrefix=oai_dc&amp;from=%d-01-01&amp;until=%d-12-31", base_url, year, year</string>
+    </entry>
+    <entry>
+        <string>au_permission_url</string>
+        <string>"%s", base_url</string>
+    </entry>
+    <!--
+    https://cdn.gn1.link/residenciapediatrica/Content/css/style.css?v=1
+    https://cdn.gn1.link/residenciapediatrica/Content/css/responsive.css?v=1
+    https://cdn.gn1.link/residenciapediatrica/Content/css/theme-options.css
+    https://cdn.gn1.link/residenciapediatrica/Images/logo-abec.jpg
+    https://cdn.gn1.link/residenciapediatrica/Imagens/logo-cc-by.jpeg
+    https://cdn.gn1.link/residenciapediatrica/Images/gn1_b.png
+    https://cdn.gn1.link/residenciapediatrica/Scripts/jquery-ui/jquery-ui.min.js
+    http://residenciapediatrica.com.br/exportar-pdf/19/v1n2a05.pdf
+    Redirected to excluded URL: https://s3-sa-east-1.amazonaws.com/publisher.gn1.com.br/residenciapediatrica.com.br\pdf/v1n2a05.pdf
+    -->
+    <entry>
+        <string>au_crawlrules</string>
+        <list>
+            <!--https://cdn.publisher.gn1.link/residenciapediatrica.com.br/pdf/v1n1a07.pdf-->
+            <string>1,"https://cdn.publisher.gn1.link/residenciapediatrica.com.br/pdf/"</string>
+            <string>1,"https://cdn.gn1.link/residenciapediatrica/.*\.(css|gif|jpe?g|js|png)"</string>
+            <string>1,"https://s3-sa-east-1.amazonaws.com/.*\.pdf"</string>
+            <string>1,"%s(detalhes|exportar-pdf)/", base_url</string>
+            <string>1,"%sexportar-citacao/\\d+/ris", base_url</string>
+        </list>
+    </entry>
+    <entry>
+        <string>au_substance_url_pattern</string>
+        <list>
+            <string>"https://cdn.publisher.gn1.link/residenciapediatrica.com.br/pdf/"</string>
         </list>
     </entry>
     <entry>
@@ -127,53 +110,57 @@
         <string>org.lockss.plugin.respediatrica.ResPediatricaOaiCrawlSeedFactory</string>
     </entry>
     <entry>
-        <string>text/html_link_extractor_factory</string>
-        <string>org.lockss.plugin.respediatrica.ResPediatricaOaiHtmlLinkExtractor$Factory</string>
-    </entry>
-    <entry>
         <string>text/html_filter_factory</string>
-        <string>org.lockss.plugin.respediatrica.ResPediatricaOaiHtmlHashFilterFactory</string>
+        <string>org.lockss.plugin.respediatrica.ResPediatricaHtmlFilterFactory</string>
     </entry>
-    <entry>
-        <string>text/html_crawl_filter_factory</string>
-        <string>org.lockss.plugin.respediatrica.ResPediatricaOaiHtmlCrawlFilterFactory</string>
-    </entry>
-    <!--
     <entry>
         <string>plugin_article_iterator_factory</string>
-        <string>org.lockss.plugin.respediatrica.ResPediatricaOaiArticleIteratorFactory</string>
+        <string>org.lockss.plugin.respediatrica.ResPediatricaArticleIteratorFactory</string>
     </entry>
     <entry>
         <string>plugin_article_metadata_extractor_factory</string>
-        <string>org.lockss.plugin.respediatrica.ResPediatricaOaiArticleIteratorFactory</string>
+        <string>org.lockss.plugin.respediatrica.ResPediatricaArticleIteratorFactory</string>
     </entry>
     <entry>
         <string>text/html_metadata_extractor_factory_map</string>
         <map>
             <entry>
                 <string>*;DublinCore</string>
-                <string>org.lockss.plugin.respediatrica.ResPediatricaOaiHtmlMetadataExtractorFactory</string>
+                <string>org.lockss.plugin.respediatrica.ResPediatricaHtmlMetadataExtractorFactory</string>
             </entry>
         </map>
     </entry>
     <entry>
-        <string>plugin_url_consumer_factory</string>
-        <string>org.lockss.plugin.respediatrica.ResPediatricaOaiUrlConsumerFactory</string>
+        <string>au_url_normalizer</string>
+        <string>org.lockss.plugin.respediatrica.ResPediatricaUrlNormalizer</string>
     </entry>
-    -->
     <entry>
-        <string>au_repair_from_peer_if_missing_url_pattern</string>
+        <string>plugin_cache_result_list</string>
         <list>
-            <string>[.](css|js|svg)([?].+)?$</string>
-            <string>/i/[^.?]+[.](gif|jpe?g|png)$</string>
+            <!--https://cdn.gn1.link/residenciapediatrica/Images/head-title-pattern.png-->
+            <string>403=org.lockss.util.urlconn.CacheException$NoRetryDeadLinkException</string>
+            <!--http://residenciapediatrica.com.br/detalhes/sumario/51-->
+            <string>500=org.lockss.util.urlconn.CacheException$NoRetryDeadLinkException</string>
         </list>
     </entry>
     <entry>
-        <!-- these will not count towards poll results but will replicate from peer if above -->
+        <string>au_repair_from_peer_if_missing_url_pattern</string>
+        <list>
+            <string>.+\.(css|gif|jpe?g|js|png)</string>
+        </list>
+    </entry>
+    <entry>
         <string>au_url_poll_result_weight</string>
         <list>
-            <string>"[.](css|js|svg)([?].+)?$", 0</string>
-            <string>"/i/[^.?]+[.](gif|jpe?g|png)$", 0</string>
+            <string>".+\.(css|gif|jpe?g|js|png)", 0</string>
+        </list>
+    </entry>
+    <entry>
+        <string>au_permitted_host_pattern</string>
+        <list>
+            <string>s3-sa-east-1\.amazonaws\.com</string>
+            <string>cdn\.gn1\.link</string>
+            <string>cdn\.publisher\.gn1\.link</string>
         </list>
     </entry>
 </map>

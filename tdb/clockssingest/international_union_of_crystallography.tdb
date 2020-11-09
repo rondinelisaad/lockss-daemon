@@ -22,29 +22,29 @@
     
     param[journal_id] = e
     
-    au < finished ; frozen ; 2010 ; 66 ; Acta Crystallographica Section E: Structure Reports Online Volume 66 Part 1 ; 2010 ; 01 ; >
-    au < finished ; frozen ; 2010 ; 66 ; Acta Crystallographica Section E: Structure Reports Online Volume 66 Part 2 ; 2010 ; 02 ; >
+    au < finished ; finished ; 2010 ; 66 ; Acta Crystallographica Section E: Structure Reports Online Volume 66 Part 1 ; 2010 ; 01 ; >
+    au < finished ; finished ; 2010 ; 66 ; Acta Crystallographica Section E: Structure Reports Online Volume 66 Part 2 ; 2010 ; 02 ; >
     au < finished ; frozen ; 2010 ; 66 ; Acta Crystallographica Section E: Structure Reports Online Volume 66 Part 3 ; 2010 ; 03 ; >
-    au < finished ; frozen ; 2010 ; 66 ; Acta Crystallographica Section E: Structure Reports Online Volume 66 Part 4 ; 2010 ; 04 ; >
-    au < finished ; frozen ; 2010 ; 66 ; Acta Crystallographica Section E: Structure Reports Online Volume 66 Part 5 ; 2010 ; 05 ; >
+    au < finished ; finished ; 2010 ; 66 ; Acta Crystallographica Section E: Structure Reports Online Volume 66 Part 4 ; 2010 ; 04 ; >
+    au < finished ; finished ; 2010 ; 66 ; Acta Crystallographica Section E: Structure Reports Online Volume 66 Part 5 ; 2010 ; 05 ; >
     au < zapped ; finished ; 2010 ; 66 ; Acta Crystallographica Section E: Structure Reports Online Volume 66 Part 6 ; 2010 ; 06 ; >
-    au < finished ; frozen ; 2010 ; 66 ; Acta Crystallographica Section E: Structure Reports Online Volume 66 Part 7 ; 2010 ; 07 ; >
+    au < finished ; finished ; 2010 ; 66 ; Acta Crystallographica Section E: Structure Reports Online Volume 66 Part 7 ; 2010 ; 07 ; >
     au < finished ; frozen ; 2010 ; 66 ; Acta Crystallographica Section E: Structure Reports Online Volume 66 Part 8 ; 2010 ; 08 ; >
     au < zapped ; finished ; 2010 ; 66 ; Acta Crystallographica Section E: Structure Reports Online Volume 66 Part 9 ; 2010 ; 09 ; >
     au < zapped ; finished ; 2010 ; 66 ; Acta Crystallographica Section E: Structure Reports Online Volume 66 Part 10 ; 2010 ; 10 ; >
     au < finished ; finished ; 2010 ; 66 ; Acta Crystallographica Section E: Structure Reports Online Volume 66 Part 11 ; 2010 ; 11 ; >
-    au < finished ; frozen ; 2010 ; 66 ; Acta Crystallographica Section E: Structure Reports Online Volume 66 Part 12 ; 2010 ; 12 ; >
-    au < finished ; frozen ; 2011 ; 67 ; Acta Crystallographica Section E: Structure Reports Online Volume 67 Part 1 ; 2011 ; 01 ; >
-    au < finished ; frozen ; 2011 ; 67 ; Acta Crystallographica Section E: Structure Reports Online Volume 67 Part 2 ; 2011 ; 02 ; >
-    au < finished ; frozen ; 2011 ; 67 ; Acta Crystallographica Section E: Structure Reports Online Volume 67 Part 3 ; 2011 ; 03 ; >
-    au < finished ; frozen ; 2011 ; 67 ; Acta Crystallographica Section E: Structure Reports Online Volume 67 Part 4 ; 2011 ; 04 ; >
-    au < finished ; frozen ; 2011 ; 67 ; Acta Crystallographica Section E: Structure Reports Online Volume 67 Part 5 ; 2011 ; 05 ; >
-    au < finished ; frozen ; 2011 ; 67 ; Acta Crystallographica Section E: Structure Reports Online Volume 67 Part 6 ; 2011 ; 06 ; >
-    au < finished ; frozen ; 2011 ; 67 ; Acta Crystallographica Section E: Structure Reports Online Volume 67 Part 7 ; 2011 ; 07 ; >
-    au < finished ; frozen ; 2011 ; 67 ; Acta Crystallographica Section E: Structure Reports Online Volume 67 Part 8 ; 2011 ; 08 ; >
+    au < finished ; finished ; 2010 ; 66 ; Acta Crystallographica Section E: Structure Reports Online Volume 66 Part 12 ; 2010 ; 12 ; >
+    au < finished ; finished ; 2011 ; 67 ; Acta Crystallographica Section E: Structure Reports Online Volume 67 Part 1 ; 2011 ; 01 ; >
+    au < finished ; finished ; 2011 ; 67 ; Acta Crystallographica Section E: Structure Reports Online Volume 67 Part 2 ; 2011 ; 02 ; >
+    au < finished ; finished ; 2011 ; 67 ; Acta Crystallographica Section E: Structure Reports Online Volume 67 Part 3 ; 2011 ; 03 ; >
+    au < finished ; finished ; 2011 ; 67 ; Acta Crystallographica Section E: Structure Reports Online Volume 67 Part 4 ; 2011 ; 04 ; >
+    au < finished ; finished ; 2011 ; 67 ; Acta Crystallographica Section E: Structure Reports Online Volume 67 Part 5 ; 2011 ; 05 ; >
+    au < finished ; finished ; 2011 ; 67 ; Acta Crystallographica Section E: Structure Reports Online Volume 67 Part 6 ; 2011 ; 06 ; >
+    au < finished ; finished ; 2011 ; 67 ; Acta Crystallographica Section E: Structure Reports Online Volume 67 Part 7 ; 2011 ; 07 ; >
+    au < finished ; finished ; 2011 ; 67 ; Acta Crystallographica Section E: Structure Reports Online Volume 67 Part 8 ; 2011 ; 08 ; >
     au < finished ; frozen ; 2011 ; 67 ; Acta Crystallographica Section E: Structure Reports Online Volume 67 Part 9 ; 2011 ; 09 ; >
     au < finished ; frozen ; 2011 ; 67 ; Acta Crystallographica Section E: Structure Reports Online Volume 67 Part 10 ; 2011 ; 10 ; >
-    au < finished ; frozen ; 2011 ; 67 ; Acta Crystallographica Section E: Structure Reports Online Volume 67 Part 11 ; 2011 ; 11 ; >
+    au < finished ; finished ; 2011 ; 67 ; Acta Crystallographica Section E: Structure Reports Online Volume 67 Part 11 ; 2011 ; 11 ; >
     au < finished ; frozen ; 2011 ; 67 ; Acta Crystallographica Section E: Structure Reports Online Volume 67 Part 12 ; 2011 ; 12 ; >
     au < finished ; finished ; 2012 ; 68 ; Acta Crystallographica Section E: Structure Reports Online Volume 68 Part 1 ; 2012 ; 01 ; >
     au < finished ; finished ; 2012 ; 68 ; Acta Crystallographica Section E: Structure Reports Online Volume 68 Part 2 ; 2012 ; 02 ; >
@@ -57,19 +57,19 @@
     au < finished ; finished ; 2012 ; 68 ; Acta Crystallographica Section E: Structure Reports Online Volume 68 Part 9 ; 2012 ; 09 ; >
     au < finished ; finished ; 2012 ; 68 ; Acta Crystallographica Section E: Structure Reports Online Volume 68 Part 10 ; 2012 ; 10 ; >
     au < finished ; finished ; 2012 ; 68 ; Acta Crystallographica Section E: Structure Reports Online Volume 68 Part 11 ; 2012 ; 11 ; >
-    au < frozen ; exists ; 2012 ; 68 ; Acta Crystallographica Section E: Structure Reports Online Volume 68 Part 12 ; 2012 ; 12 ; >
-    au < frozen ; exists ; 2013 ; 69 ; Acta Crystallographica Section E: Structure Reports Online Volume 69 Part 1 ; 2013 ; 01 ; >
-    au < frozen ; exists ; 2013 ; 69 ; Acta Crystallographica Section E: Structure Reports Online Volume 69 Part 2 ; 2013 ; 02 ; >
-    au < frozen ; exists ; 2013 ; 69 ; Acta Crystallographica Section E: Structure Reports Online Volume 69 Part 3 ; 2013 ; 03 ; >
-    au < frozen ; exists ; 2013 ; 69 ; Acta Crystallographica Section E: Structure Reports Online Volume 69 Part 4 ; 2013 ; 04 ; >
-    au < frozen ; exists ; 2013 ; 69 ; Acta Crystallographica Section E: Structure Reports Online Volume 69 Part 5 ; 2013 ; 05 ; >
-    au < frozen ; exists ; 2013 ; 69 ; Acta Crystallographica Section E: Structure Reports Online Volume 69 Part 6 ; 2013 ; 06 ; >
-    au < frozen ; exists ; 2013 ; 69 ; Acta Crystallographica Section E: Structure Reports Online Volume 69 Part 7 ; 2013 ; 07 ; >
-    au < frozen ; exists ; 2013 ; 69 ; Acta Crystallographica Section E: Structure Reports Online Volume 69 Part 8 ; 2013 ; 08 ; >
+    au < finished ; manifest ; 2012 ; 68 ; Acta Crystallographica Section E: Structure Reports Online Volume 68 Part 12 ; 2012 ; 12 ; reingest5.clockss.org:8082 >
+    au < finished ; manifest ; 2013 ; 69 ; Acta Crystallographica Section E: Structure Reports Online Volume 69 Part 1 ; 2013 ; 01 ; reingest1.clockss.org:8082 >
+    au < finished ; manifest ; 2013 ; 69 ; Acta Crystallographica Section E: Structure Reports Online Volume 69 Part 2 ; 2013 ; 02 ; reingest5.clockss.org:8082 >
+    au < finished ; manifest ; 2013 ; 69 ; Acta Crystallographica Section E: Structure Reports Online Volume 69 Part 3 ; 2013 ; 03 ; reingest3.clockss.org:8083 >
+    au < finished ; manifest ; 2013 ; 69 ; Acta Crystallographica Section E: Structure Reports Online Volume 69 Part 4 ; 2013 ; 04 ; reingest4.clockss.org:8082 >
+    au < finished ; manifest ; 2013 ; 69 ; Acta Crystallographica Section E: Structure Reports Online Volume 69 Part 5 ; 2013 ; 05 ; reingest3.clockss.org:8083 >
+    au < finished ; manifest ; 2013 ; 69 ; Acta Crystallographica Section E: Structure Reports Online Volume 69 Part 6 ; 2013 ; 06 ; reingest1.clockss.org:8082 >
+    au < finished ; manifest ; 2013 ; 69 ; Acta Crystallographica Section E: Structure Reports Online Volume 69 Part 7 ; 2013 ; 07 ; reingest2.clockss.org:8085 >
+    au < finished ; manifest ; 2013 ; 69 ; Acta Crystallographica Section E: Structure Reports Online Volume 69 Part 8 ; 2013 ; 08 ; reingest5.clockss.org:8082 >
     au < finished ; finished ; 2013 ; 69 ; Acta Crystallographica Section E: Structure Reports Online Volume 69 Part 9 ; 2013 ; 09 ; >
     au < finished ; finished ; 2013 ; 69 ; Acta Crystallographica Section E: Structure Reports Online Volume 69 Part 10 ; 2013 ; 10 ; >
-    au < frozen ; exists ; 2013 ; 69 ; Acta Crystallographica Section E: Structure Reports Online Volume 69 Part 11 ; 2013 ; 11 ; >
-    au < frozen ; exists ; 2013 ; 69 ; Acta Crystallographica Section E: Structure Reports Online Volume 69 Part 12 ; 2013 ; 12 ; >
+    au < finished ; manifest ; 2013 ; 69 ; Acta Crystallographica Section E: Structure Reports Online Volume 69 Part 11 ; 2013 ; 11 ; reingest2.clockss.org:8085 >
+    au < finished ; manifest ; 2013 ; 69 ; Acta Crystallographica Section E: Structure Reports Online Volume 69 Part 12 ; 2013 ; 12 ; reingest2.clockss.org:8085 >
   
   }
 
