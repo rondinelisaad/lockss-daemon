@@ -11,7 +11,7 @@
   </entry>
   <entry>
     <string>plugin_version</string>
-    <string>14</string>
+    <string>15</string>
   </entry>
   <entry>
     <string>plugin_feature_version_map</string>
@@ -130,7 +130,7 @@
   <!-- recrawl depth is 2 -->
  <entry>
     <string>au_crawl_depth</string>
-    <int>5</int>
+    <int>2</int>
   </entry>
   <entry>
     <string>au_def_new_content_crawl</string>
