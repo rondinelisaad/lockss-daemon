@@ -61,5 +61,5 @@ Lists other build options
 Build out the test frameworks to allow running a daemon and testing on local machine.
 
 ### To Run on Docker
-docker run --name lockss -ti -v <local directory>:/data -d scieloorg/lockss-daemon bash
+docker run --name lockss -ti -v local_directory:/data -d scieloorg/lockss-daemon bash
 
