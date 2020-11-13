@@ -58,7 +58,6 @@ local.properties
 .target
 .texlipse
 .springBeans
-find_down.sh
 
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and Webstorm
 *.iml
@@ -86,7 +85,6 @@ find_down.sh
 *test/classes
 test/results/*
 test/run-classpath
-test/run-classpath-win
 test/test-classpath
 test/test-p-classpath
 generated/*
@@ -144,8 +142,8 @@ lib/run-props
 /lib/jsoup-1.7.1-sources.jar
 
 # /plugins/
-/plugins/classes
-/plugins/jars
+#/plugins/classes
+#/plugins/jars
 /plugins/externals
 
 # /plugins/test/
@@ -430,4 +428,3 @@ lib/run-props
 
 /tdb/ivypluspln.d
 
-/generated

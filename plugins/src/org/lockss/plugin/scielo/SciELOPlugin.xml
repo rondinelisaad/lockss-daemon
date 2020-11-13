@@ -11,7 +11,7 @@
   </entry>
   <entry>
     <string>plugin_version</string>
-    <string>15</string>
+    <string>16</string>
   </entry>
   <entry>
     <string>plugin_feature_version_map</string>
@@ -107,13 +107,12 @@
         https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js
      -->
     <list>
-      <string>1,"^https?://(%s|(fonts|ajax)\.googleapis\.com|cdn[.]mathjax[.]org|[^.]+\.cloudfront\.net)/[^?]*\.(bmp|css|eot|gif|ico|jpe?g|js|png|svg|tif?f|ttf|woff)$", url_host(base_url)</string>
+      <string>1,"^https?://(%s|(fonts|ajax)\.googleapis\.com|cdn[.]mathjax[.]org|[^.]+\.cloudfront\.net)/[^?]*\.(bmp|css|eot|gif|ico|jpe?g|png|svg|tif?f|ttf|woff)$", url_host(base_url)</string>
       <string>4,"^%s", base_url</string>
       <string>1,"^%spdf/.+/(.._)?.+\.pdf", base_url</string>
       <string>1,"^%sscielo\.php\?script=sci_issues&amp;pid=%s&amp;", base_url, journal_issn</string>
       <string>1,"^%sscielo\.php\?(script=sci_.+|download)&amp;pid=[^&amp;]{0,5}%s%d[0-9]{4,16}", base_url, journal_issn, year</string>
       <string>1,"^%sscieloOrg/php/(articleXML|reference)\.php\?pid=[^&amp;]{0,5}%s%d[0-9]{4,16}", base_url, journal_issn, year</string>
-      <string>4,"^https?://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"</string>
     </list>
   </entry>
   <entry>
